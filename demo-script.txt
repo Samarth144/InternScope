@@ -1,0 +1,36 @@
+DEMO SCRIPT - InternScope
+
+1.  **Setup & Launch**
+    - Show terminal: `docker compose up -d` (Postgres started).
+    - Show terminal: `npm run seed` (Seeding 300 students, 30 companies).
+    - Show terminal: `npm run dev` (App running on port 3000).
+
+2.  **Landing Page & Profile Building**
+    - Open `http://localhost:3000`.
+    - Highlight the Glassmorphism UI and "Build Your Intern Profile" step.
+    - **Action**: Adjust sliders for "React" and "Node" skills (show interactivity).
+    - **Action**: Enter "3" Projects and "8.8" CGPA.
+    - Click **"Calculate Market Readiness"**.
+
+3.  **Simulation & Real-time Adjustment**
+    - **Observation**: Dashboard appears. Show "Market Readiness Score" and "Acceptance Chance".
+    - **Feature**: "Live Simulation Engine".
+    - **Action**: Click "What if +1?" on "System Design" skill.
+    - **Observation**: Watch the Probability score increase instantly (React state update + Algorithm re-calc).
+    - **Feature**: "Export Report". Click and show the PDF download.
+
+4.  **Bulk Market Analysis**
+    - **Action**: Click "Run Bulk Market Simulation".
+    - **Observation**: Show the Histogram of 300 students.
+    - Explain: "This simulates the entire seeded student batch against current market difficulty to show where you stand."
+
+5.  **Offer Comparator (Decision Engine)**
+    - **Action**: Click "Compare Offers" in Navbar.
+    - **Action**: Pre-filled data is there. Modify "Base Salary" or "Learning Score" for Offer B.
+    - **Action**: Click "Run Comparison Analysis".
+    - **Observation**: "Winner" is announced.
+    - **Analysis**: Show the "Growth Index" chart vs "1-Year ROI" chart. Explain how a lower salary offer might win due to higher Learning/Brand score (Long-term growth).
+
+6.  **Code Walkthrough (Optional)**
+    - Show `src/lib/utils/calculations.ts` to prove custom algorithms (no APIs).
+    - Show `prisma/seed.ts` to prove synthetic data generation.

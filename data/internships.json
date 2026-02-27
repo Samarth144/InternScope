@@ -1,0 +1,2576 @@
+[
+  {
+    "id": "INT_001",
+    "company": "Integral Excellence Pvt Ltd",
+    "role": "Android App Development",
+    "location": "Visakhapatnam (Hybrid)",
+    "remoteType": "Hybrid",
+    "stipendMin": 5000,
+    "stipendMax": 20000,
+    "durationMonths": 4,
+    "skills": [
+      "React Native",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_002",
+    "company": "Coding Teaching Assistant",
+    "role": "Part time",
+    "location": "1. Join live Coding and AI classes from 8:00 AM to 3:00 PM (Monday to Friday). 2. Assist the main instructor in managing the classroom and ensuring smooth session flow. 3. Monitor student attendance, participation, and discipline during live classes. 4. Interact actively with students and maintain an engaging and positive learning environment. 5. Make the class interesting through a friendly, energetic, and jolly teaching approach. 6. Help students understand coding and AI concepts simply and clearly. 7. Maintain student performance records using Google Sheets or relevant tools. 8. Communicate with parents regarding attendance and performance updates when required. 9. Conduct doubt-solving and revision sessions when needed. 10. Check homework, coding assignments, MCQs, and AI-based mini projects.",
+    "remoteType": "Remote",
+    "stipendMin": 7000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Operating Systems",
+      "Data Structures",
+      "Google Workspace",
+      "Work from home",
+      "Computer Networking",
+      "Skilledity Solution Private Limited",
+      "Data Science"
+    ]
+  },
+  {
+    "id": "INT_003",
+    "company": "Software Development",
+    "role": "Part time",
+    "location": "Indore, Madhya Pradesh",
+    "remoteType": "Onsite",
+    "stipendMin": 15000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_004",
+    "company": "Part time",
+    "role": "Job offer upto ₹ 5LPA post internship",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 5,
+    "stipendMax": 5,
+    "durationMonths": 2,
+    "skills": [
+      "Web Development"
+    ]
+  },
+  {
+    "id": "INT_005",
+    "company": "Smart Infusion",
+    "role": "Finance",
+    "location": "English Proficiency (Written)",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 2,
+    "skills": []
+  },
+  {
+    "id": "INT_006",
+    "company": "Hyperbeen Solutions",
+    "role": "Flutter Development",
+    "location": "Ahmedabad",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 6000,
+    "durationMonths": 1,
+    "skills": [
+      "Cloud Firestore",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_007",
+    "company": "Analyticore",
+    "role": "Data Analytics",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 25000,
+    "durationMonths": 3,
+    "skills": [
+      "Data Engineering"
+    ]
+  },
+  {
+    "id": "INT_008",
+    "company": "AssessHub",
+    "role": "Market Research",
+    "location": "English Proficiency (Written)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": [
+      "Data Analytics",
+      "Lead Generation",
+      "Research and Analytics"
+    ]
+  },
+  {
+    "id": "INT_009",
+    "company": "Digital Heroes",
+    "role": "Senior Web Developer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 4000,
+    "stipendMax": 4000,
+    "durationMonths": 3,
+    "skills": [
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "INT_010",
+    "company": "Digital Heroes",
+    "role": "Junior Web Developer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 4000,
+    "stipendMax": 4000,
+    "durationMonths": 3,
+    "skills": [
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "INT_011",
+    "company": "Web Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 4000,
+    "stipendMax": 6000,
+    "durationMonths": 3,
+    "skills": [
+      "Digital Heroes"
+    ]
+  },
+  {
+    "id": "INT_012",
+    "company": "Maxgen Technologies Private Limited",
+    "role": "Data Anlayst",
+    "location": "Ahmedabad",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 12000,
+    "durationMonths": 4,
+    "skills": [
+      "Data Analytics",
+      "Data Analysis",
+      "Power BI"
+    ]
+  },
+  {
+    "id": "INT_013",
+    "company": "Software Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 3000,
+    "stipendMax": 5000,
+    "durationMonths": 3,
+    "skills": [
+      "C++ Programming",
+      "Even Cargo"
+    ]
+  },
+  {
+    "id": "INT_014",
+    "company": "Meru Technosoft Private Limited",
+    "role": "Full Stack Development",
+    "location": "As a full-stack development intern at Meru Technosoft Private Limited, you will have the exciting opportunity to work with cutting-edge technologies. Your role will involve collaborating with the development team to create and maintain innovative web applications. 1. Develop responsive UIs using React.js, Hooks, and modern JavaScript. 2. Use UI libraries like Shadcn UI, MUI, Bootstrap, and Tailwind. 3. Implement pagination, filtering, and sorting in tables and lists. 4. Build REST APIs using Node.js and Express.js. 5. Implement JWT authentication and Google OAuth login. 6. Integrate third-party APIs (SMS, email, payment, maps, etc.). 7. Work with MongoDB + SQL databases. 8. Follow clean coding, folder structure, and backend best practices. 9. Debug, test, and collaborate with the onsite development team. If you are a passionate and innovative individual looking to gain hands-on experience in full-stack development, this internship opportunity at Meru Technosoft is perfect for you. Join us in shaping the future of technology and making a real impact in the industry.",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_015",
+    "company": "Online Savaari Private Limited",
+    "role": "Python Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 6000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_016",
+    "company": "PERN Stack (PostgreSQL, Express.js, React.js, Node.js)",
+    "role": "Job offer upto ₹ 3LPA post internship",
+    "location": "1. Assist in developing responsive web applications using the PERN stack (PostgreSQL, Express.js, React.js, Node.js)  2. Collaborate with UI/UX designers and backend teams for seamless functionality  3. Write clean, reusable, and maintainable code  4. Develop and integrate RESTful APIs for smooth communication between frontend and backend  5. Design and manage relational databases using PostgreSQL  6. Participate in code reviews and contribute to improvements  7. Troubleshoot, debug, and optimize code for performance  8. Stay updated with new technologies, tools, and best practices",
+    "remoteType": "Remote",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 6,
+    "skills": [
+      "Betatest Solutions Private Limited",
+      "React Native",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_017",
+    "company": "Meru Technosoft Private Limited",
+    "role": "Python Development",
+    "location": "We are looking for a highly motivated Python developer intern with strong fundamentals in Python and a keen interest in generative AI (Gen AI) and emerging AI technologies. The ideal candidate should be passionate about building AI-driven applications and have exposure to model deployment and cloud environments. This internship offers hands-on experience in building scalable AI solutions, working with modern AI frameworks, and contributing to real-world AI applications. 1. Develop and maintain backend services and AI-driven applications using Python. 2. Assist in building and integrating Generative AI applications (LLMs, RAG, embeddings, prompt engineering). 3. Work with AI/ML frameworks such as TensorFlow, PyTorch, LangChain, Hugging Face, OpenAI APIs, etc. 4. Contribute to data preprocessing, model evaluation, and experimentation. 5. Support deployment of AI/ML models to cloud platforms (AWS/Azure). 6. Assist in implementing CI/CD pipelines and DevOps best practices. 7. Collaborate with cross-functional teams to integrate AI features into products. 8. Stay updated with the latest AI trends and research advancements.",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": [
+      "REST API",
+      "Microsoft Azure",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_018",
+    "company": "Kravvex Fresh Pvt Ltd",
+    "role": "Product Management",
+    "location": "Product Lifecycle Management(PLM)",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 20000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home",
+      "Social Media Marketing",
+      "Vibe Coding",
+      "Digital Marketing"
+    ]
+  },
+  {
+    "id": "INT_019",
+    "company": "Maxgen Technologies Private Limited",
+    "role": "Flutter Development",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 12000,
+    "durationMonths": 3,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_020",
+    "company": "Data Anlayst",
+    "role": "Part time",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 12000,
+    "durationMonths": 3,
+    "skills": [
+      "Maxgen Technologies Private Limited",
+      "Data Analytics",
+      "Data Analysis",
+      "Power BI"
+    ]
+  },
+  {
+    "id": "INT_021",
+    "company": "Entrepreneurial Software Development (Backend)",
+    "role": "Part time",
+    "location": "1. Collaborate with other developers to design, develop, and implement the next phase of our product (frontend and backend). 2. Work on a marketplace business model (panels). 3. Write clean, efficient, and maintainable code using React and Firebase. 4. Participate in daily stand-ups and report progress directly to the founder. 5. Develop chat and communication systems (similar to Uber and Ola). 6. Take initiative in brainstorming sessions and contribute innovative ideas to improve the product.",
+    "remoteType": "Remote",
+    "stipendMin": 2000,
+    "stipendMax": 2000,
+    "durationMonths": 4,
+    "skills": [
+      "Work from home",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": "INT_022",
+    "company": "Blockchain Development",
+    "role": "Part time",
+    "location": "1. Smart Contract Feature Implementation 2. Writing & Maintaining Hardhat Tests (Security + Edge Cases) 3. Backend Integration (On-chain ↔ Off-chain Flow) 4. Protocol Monitoring + Debugging (Real World Constraints)",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 4,
+    "skills": [
+      "Podha Protocol",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_023",
+    "company": "Global Groupware Solutions Limited",
+    "role": "Product Management",
+    "location": "Product Lifecycle Management(PLM)",
+    "remoteType": "Remote",
+    "stipendMin": 25000,
+    "stipendMax": 35000,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)"
+    ]
+  },
+  {
+    "id": "INT_024",
+    "company": "Unity FX Artist (VFX) – Mobile Game Project",
+    "role": "Job offer upto ₹ 12LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 12,
+    "stipendMax": 12,
+    "durationMonths": 3,
+    "skills": [
+      "Graphic Design",
+      "Anemative Private Limited",
+      "Adobe After Effects",
+      "Game development",
+      "Unity Engine"
+    ]
+  },
+  {
+    "id": "INT_025",
+    "company": "Backend Development",
+    "role": "Part time",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 20000,
+    "stipendMax": 30000,
+    "durationMonths": 6,
+    "skills": [
+      "Discovr AI"
+    ]
+  },
+  {
+    "id": "INT_026",
+    "company": "Discovr AI",
+    "role": "Front End Development",
+    "location": "Build product UI in Next.js + React + TypeScript Implement workflow screens: campaign setup, approvals, creator management, task states Build data-heavy components: tables, filters, forms, dashboards, empty/loading/error states Integrate frontend with APIs and handle auth/session flows Improve UI quality: responsiveness, performance, and UX polish Write basic tests and help with release QA Use modern AI coding tools (Cursor/Copilot/ChatGPT) to ship faster",
+    "remoteType": "Onsite",
+    "stipendMin": 12000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "UI & UX Design"
+    ]
+  },
+  {
+    "id": "INT_027",
+    "company": "KGR Software Technologies",
+    "role": "QA Testing",
+    "location": "1. Understand project requirements and test scenarios Prepare and execute test cases Perform manual and basic automation testing Identify and report bugs Work closely with development team Required Skills: Basic knowledge of Core Java Understanding of STLC & SDLC Knowledge of Selenium (preferred) Basic SQL knowledge Good communication skills",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_028",
+    "company": "Drmz System Innovations Private Limited",
+    "role": "Embedded Systems",
+    "location": "Bhopal",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 3,
+    "skills": [
+      "C++ Programming",
+      "Atmel AVR",
+      "Circuit Design",
+      "C Programming",
+      "ARM Microcontroller"
+    ]
+  },
+  {
+    "id": "INT_029",
+    "company": "Part time",
+    "role": "Job offer upto ₹ 3LPA post internship",
+    "location": "Noida (Hybrid)",
+    "remoteType": "Hybrid",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 6,
+    "skills": [
+      "Google Sheets",
+      "Attention to Detail",
+      "Product & Client Operations"
+    ]
+  },
+  {
+    "id": "INT_030",
+    "company": "Random Groups Of Companies",
+    "role": "Java Development",
+    "location": "Chennai",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 6000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_031",
+    "company": "E-Revbay Private Limited",
+    "role": "Full Stack Development",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_032",
+    "company": "Qrata",
+    "role": "Front End Development",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 7000,
+    "stipendMax": 12000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_033",
+    "company": "Replete Business Solutions Private Limited",
+    "role": "Artificial Intelligence (AI)",
+    "location": "Job role: AI/ML intern (Computer vision & geospatial intelligence) We are seeking a highly motivated AI/ML intern to help build a cutting-edge module for the automated digitization of power distribution infrastructure. You will work on transforming raw drone imagery into intelligent, GIS-mapped electrical networks. This role involves solving complex problems like asset detection in 'noisy' environments (urban/forest) and inferring logical electrical connectivity (topology) from visual data. 1. Object detection & segmentation: Develop and fine-tune models to identify poles, transformers, insulators, and conductors in high-resolution drone footage. 2. Network topology mapping: Implement algorithms (such as Graph Neural Networks) to predict connectivity between identified assets, ensuring the logical flow of the electrical grid. 3. Geospatial integration: Work with GIS data formats (Shapefiles, GeoJSON) to ensure detected assets are accurately mapped to real-world coordinates. 4. Robustness engineering: Optimize models to handle 'occlusions'- where trees or buildings hide wires- to maintain 95%+ accuracy. 5. Data pipeline management: Assist in preprocessing large-scale aerial datasets and implementing automated labeling workflows.",
+    "remoteType": "Onsite",
+    "stipendMin": 20000,
+    "stipendMax": 30000,
+    "durationMonths": 6,
+    "skills": [
+      "Data Structures",
+      "Artificial intelligence",
+      "Neural Networks",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_034",
+    "company": "Vvibe",
+    "role": "Backend/Automation Developer",
+    "location": "Database Management System (DBMS)",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 4,
+    "skills": [
+      "REST API",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_035",
+    "company": "WordPress Development",
+    "role": "Part time",
+    "location": "Search Engine Optimization (SEO)",
+    "remoteType": "Onsite",
+    "stipendMin": 3000,
+    "stipendMax": 5000,
+    "durationMonths": 4,
+    "skills": []
+  },
+  {
+    "id": "INT_036",
+    "company": "Emoolar Technology Private Limited",
+    "role": "Cyber Security",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 8500,
+    "stipendMax": 11500,
+    "durationMonths": 6,
+    "skills": [
+      "Web Application Security",
+      "Ethical Hacking"
+    ]
+  },
+  {
+    "id": "INT_037",
+    "company": "Part time",
+    "role": "Job offer upto ₹ 3LPA post internship",
+    "location": "ONLY APPLY IF YOU ARE CURRENTLY BASED IN JAIPUR. THIS IS A FULL-TIME, 3-MONTH WORK-FROM-OFFICE INTERNSHIP. We're ViralChilly A Jaipur-based digital marketing agency helping brands across the US, UK, Canada, and Australia grow through SEO, Paid Marketing, and Web Development. Trusted by clients like Canva, Adobe, Pharmeasy, Kalera Ayurveda, Stillio, Mobilocard, and many more. We're a young, execution-first team. No fluff. No excuses. Just real work, real learning, and good coffee over long meetings. Peek into our daily vibe Instagram About the Role We're looking for a Front-End Developer Intern who loves building interactive, responsive websites, translating designs into clean code, and creating smooth user experiences not just copying templates. This is not a \"watch-and-learn\" internship. You'll be coding web pages, implementing responsive layouts, integrating APIs, and supporting client projects in a fast-paced digital agency environment. You'll see how high-quality front-end development directly impacts user engagement and business results. What You'll Be Doing *Developing responsive and interactive web pages using HTML, CSS, and JavaScript *Implementing UI/UX designs into functional front-end interfaces *Collaborating with designers, developers, and marketers to build web projects *Optimizing front-end performance, load times, and accessibility *Debugging and fixing front-end issues or browser inconsistencies *Maintaining and updating existing websites and components *Suggesting improvements to enhance website usability, design, and interactivity (yes, your ideas matter) What You'll Learn (Training Provided) *How agencies build, maintain, and optimize front-end interfaces professionally *Best practices for responsive design, HTML, CSS, and JavaScript *Using front-end frameworks, libraries, and tools (React, Bootstrap, etc.) *Optimizing websites for performance, accessibility, and user experience *How strong front-end development drives engagement, conversions, and business growth (not textbook stuff) What We're Looking For *Basic knowledge of HTML, CSS, JavaScript, and responsive design *Familiarity with front-end frameworks/libraries is a bonus (React, Bootstrap, Tailwind, etc.) *Organized, proactive, and able to handle multiple web projects *Professional, reliable, and solution-oriented *Comfortable in a fast-paced, results-driven environment *Culture Fit Matters to Us *Confident & proactive (we won't micromanage you) *Coachable and open to feedback *Honest, professional, and clear communicator *Calm under deadlines & performance pressure *Team player with a positive attitude Preferred (But Not Mandatory) *Pursuing or completed BCA / B.Tech / MCA / Digital Marketing courses *Freshers or students serious about front-end development, web development, or UI/UX projects *Any exposure to front-end frameworks, responsive design, or API integration is a bonus Internship Details Type: Full-Time Internship Timings: 9:00 AM - 6:30 PM Days: Monday to Friday Location: Mansarovar, Jaipur (Onsite) Where We're Based Space 7, Sector 7, 4th Floor (Office 401), Shipra Path, Mansarovar, Jaipur - 302020 Right next to Suvira Hospital, in a modern building with an ICICI Bank branch. The area is buzzing D Mart, City Park, Woodland Park Apartments, and 50+ caf s & restaurants nearby. Perfect for coffee breaks & lunches. Why You'll Love Working at ViralChilly *5-Day Work Week - Weekends are yours *Team Lunches & Outings - Food + fun guaranteed *Unlimited Learning - You'll learn faster here than anywhere else *Real Front-End Development Exposure - Work on actual client websites and projects *High Ownership, Real Impact - Your code and designs drive user experience and client success *Fun, No-Ego Culture - Just smart people building cool things",
+    "remoteType": "Onsite",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 4,
+    "skills": []
+  },
+  {
+    "id": "INT_038",
+    "company": "Geeky Panda Technologies",
+    "role": "Android App Development",
+    "location": "1. Basic computer operating skills, like using basic MS Excel, MS Word 2. The intern will need to make web pages and web app pages (will be taught here as well) 3. Assisting with app building. Coding is not necessary at the moment, but you should understand how app-making works (will be taught here) 4. Should be good with English, as they may need to assist with app content quality work 5. A target is set each day, so the intern should be able to finish the target on time, so they should be able to work fast enough on app content and pages (and app functionality as well, but that will come later)",
+    "remoteType": "Onsite",
+    "stipendMin": 9000,
+    "stipendMax": 12000,
+    "durationMonths": 1,
+    "skills": [
+      "Computer skills"
+    ]
+  },
+  {
+    "id": "INT_039",
+    "company": "Unity Game Developer",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 8000,
+    "stipendMax": 8000,
+    "durationMonths": 3,
+    "skills": [
+      "Unity Engine"
+    ]
+  },
+  {
+    "id": "INT_040",
+    "company": "Phoenix Labs Global, Inc. (Seattle, United States)",
+    "role": "Full-Stack Web Developer & DevOps Engineering",
+    "location": "1. Develop and maintain full-stack web applications supporting Phoenix Labs Global platforms. 2. Build responsive, high-performance user interfaces using modern frontend frameworks. 3. Engineer scalable backend APIs and microservices. 4. Assist in database architecture, optimization, and data pipelines. 5. Deploy applications using containerized infrastructure (Docker/Kubernetes.) 6, Support CI/CD pipeline development and automation. 7. Monitor system performance, uptime, and observability dashboards. 8. Collaborate with AI, data science, and platform engineering teams. 9. Document system architecture, workflows, and deployment procedures. This internship is execution-focused - interns will contribute to live systems, not sandbox exercises.",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 25000,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_041",
+    "company": "N8N",
+    "role": "International",
+    "location": "Delhi",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Generative AI Tools",
+      "ValuQo Services Private Limited"
+    ]
+  },
+  {
+    "id": "INT_042",
+    "company": "Aarixa Innovix Private Limited",
+    "role": "Web Development",
+    "location": "1.Develop and maintain responsive websites 2.Work on frontend using HTML, CSS, JavaScript 3.Fix bugs and improve website performance 4.Assist in backend development (if applicable) 5.Collaborate with design and product teams",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Delhi, Gurgaon"
+    ]
+  },
+  {
+    "id": "INT_043",
+    "company": "Aiqwip",
+    "role": "Generative AI Engineer",
+    "location": "Bangalore",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 30000,
+    "durationMonths": 2,
+    "skills": [
+      "OpenAI API",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": "INT_044",
+    "company": "Software QA & Support",
+    "role": "Job offer upto ₹ 8LPA post internship",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 8,
+    "stipendMax": 8,
+    "durationMonths": 3,
+    "skills": [
+      "Logical reasoning",
+      "XEMI Private Limited"
+    ]
+  },
+  {
+    "id": "INT_045",
+    "company": "GARS Technology",
+    "role": "React Native Development",
+    "location": "As a React Native Development intern at GARS Technology, you will have the opportunity to work on cutting-edge projects and gain hands-on experience in the world of mobile app development. Your knowledge of React, React Native, JavaScript, TypeScript, and Redux will be put to the test as you collaborate with our team of experienced developers. Key Responsibilities: 1. Build app screens and flows in React Native (Android + iOS). 2. Integrate REST APIs (auth, OTP, points, transactions, redeem flow). 3. Implement state management (Redux Toolkit / Zustand / Context). 4. Create reusable UI components and maintain consistent UI style. 5. Handle navigation, forms, validations, and error states cleanly. 6. Work on performance improvements (flatlists, memoization, rendering). 7. Add basic analytics/logs (optional), and handle edge cases. 8. Collaborate with the backend + design team and ship weekly updates. If you are a proactive and enthusiastic individual looking to kickstart your career in React Native development, this internship is the perfect opportunity for you to grow and learn in a supportive and dynamic environment. Apply now and join us on this exciting journey!",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "React Native",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_046",
+    "company": "JP IT STAFFING LLC",
+    "role": "Software Development",
+    "location": "Software Development Life Cycle (SDLC)",
+    "remoteType": "Remote",
+    "stipendMin": 2000,
+    "stipendMax": 8000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_047",
+    "company": "Unreal Engine Designer/Animator/3D Generalist",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "Blender 3D",
+      "Unreal Engine"
+    ]
+  },
+  {
+    "id": "INT_048",
+    "company": "EROEI Tech Private Limited",
+    "role": "Backend + DevOps (AWS/GCP)",
+    "location": "A. Backend development: 1. Assist in developing and maintaining backend services and APIs 2. Write clean, maintainable code following best practices 3. Debug and troubleshoot backend issues 4. Participate in code reviews and contribute to documentation 5. Help optimize application performance and database queries B. DevOps & cloud infrastructure: 1. Support deployment processes across AWS and GCP environments 2. Help manage CI/CD pipelines using tools like Jenkins, GitLab CI, or GitHub Actions 3. Assist in containerization efforts using Docker and orchestration with Kubernetes 4. Monitor application health and infrastructure metrics 5. Support infrastructure as code (IaC) initiatives using Terraform or CloudFormation C. AWS responsibilities: 1. Work with EC2, S3, RDS, Lambda, ECS/EKS 2. Assist in managing IAM roles and security policies 3. Help configure CloudWatch for monitoring and alerting 4. Support VPC and networking configurations D. GCP responsibilities: 1. Work with Compute Engine, Cloud Storage, Cloud SQL, Cloud Functions, GKE 2. Assist with Cloud Build and deployment pipelines 3. Help configure Stackdriver/Cloud Monitoring 4. Support VPC and networking setups E. Maintenance & support: 1. Participate in on-call rotation (with mentorship) 2. Help troubleshoot production issues 3. Perform routine maintenance tasks and updates 4. Document processes and create runbooks",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Data Structures"
+    ]
+  },
+  {
+    "id": "INT_049",
+    "company": "Whatbytes",
+    "role": "Backend Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "Data Structures",
+      "REST API",
+      "Django Rest Framework"
+    ]
+  },
+  {
+    "id": "INT_050",
+    "company": "Coding Junior",
+    "role": "Mobile App Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_051",
+    "company": "TMS TulsiMedSciences",
+    "role": "Product Management",
+    "location": "1. Assist in sourcing products and raw materials from domestic and international suppliers 2. Coordinate with vendors for quotations, negotiations, and lead times 3. Prepare and maintain comparative statements (price, quality, delivery terms) 4. Support purchase order creation and follow-ups 5. Track order status and ensure timely deliveries 6. Maintain procurement records, invoices, and supplier documentation 7. Liaise with internal teams (sales, logistics, accounts) for procurement requirements 8. Assist in vendor onboarding and evaluation 9. Support import/export procurement documentation",
+    "remoteType": "Onsite",
+    "stipendMin": 6000,
+    "stipendMax": 8000,
+    "durationMonths": 3,
+    "skills": [
+      "Effective Communication",
+      "Interpersonal skills"
+    ]
+  },
+  {
+    "id": "INT_052",
+    "company": "Stacks (Techaboard Digi Solutions Private Limited)",
+    "role": "Front End Development",
+    "location": "We are an AI product lab based in Mumbai, India, building at the intersection of AI, personalization, and the browser. Over the last 2 years, we've shipped multiple products, including: Stacks - an intelligent workspace to calm internet noise, Converse. so - a calls-first CRM for Indian SMBs Rize. so - a creator playground for starting small and staying consistent Our philosophy: Build fast, validate real problems, and turn bold ideas into products people actually use. As a Front End Development intern at Better Stacks, you will have the opportunity to work and build engaging interfaces with JavaScript, ReactJS, and Node.js. 1. Collaborate with the design team to implement user-friendly interfaces 2. Develop and maintain code for various web applications, including dashboard, landing page, and Chrome extensions 3. Optimize applications for maximum speed and scalability 4. Troubleshoot and debug issues to ensure smooth functionality 5. Stay up-to-date with industry trends and best practices in front-end development 6. Assist in testing and quality assurance processes 7. Contribute innovative ideas to improve user experience and overall product quality If you are passionate about front-end development, have an eye for design, and are eager to enhance your skills in a fast-paced environment, this internship is perfect for you.",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_053",
+    "company": "Software Testing",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 20000,
+    "stipendMax": 30000,
+    "durationMonths": 2,
+    "skills": [
+      "Usability Testing",
+      "Database Testing",
+      "Webaxis Software Services",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_054",
+    "company": "MERN Stack Developer",
+    "role": "Job offer upto ₹ 7LPA post internship",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 7,
+    "stipendMax": 7,
+    "durationMonths": 3,
+    "skills": [
+      "Maxgen Technologies Private Limited",
+      "Web development"
+    ]
+  },
+  {
+    "id": "INT_055",
+    "company": "QA and Business Analyst (BQA)",
+    "role": "Part time",
+    "location": "Software Development Life Cycle (SDLC)",
+    "remoteType": "Onsite",
+    "stipendMin": 4500,
+    "stipendMax": 7000,
+    "durationMonths": 6,
+    "skills": [
+      "Business Analysis",
+      "Test Automation",
+      "ETYCIA GLOBAL PRIVATE LIMITED"
+    ]
+  },
+  {
+    "id": "INT_056",
+    "company": "I Educate Myself Daily Foundation",
+    "role": "Ebook Quality Analyst",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 0,
+    "stipendMax": 0,
+    "durationMonths": 1,
+    "skills": [
+      "Market Analysis",
+      "Video Editing",
+      "Social Media Marketing",
+      "Content Writing",
+      "Digital Marketing",
+      "Email Marketing",
+      "Creative Writing"
+    ]
+  },
+  {
+    "id": "INT_057",
+    "company": "Part time",
+    "role": "Job offer post internship",
+    "location": "Internet of Things (IoT)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": [
+      "Embedded Systems",
+      "SqM Technologies",
+      "Circuit Design",
+      "Digital Signal Processing",
+      "C Programming",
+      "ARM Microcontroller"
+    ]
+  },
+  {
+    "id": "INT_058",
+    "company": "Megaminds IT Services",
+    "role": "Full-Stack AI Developer",
+    "location": "1. Integrate AI/LLM APIs (Claude, OpenAI, etc.) into production applications 2. Develop backend APIs using Python and FastAPI framework 3. Build database schemas with PostgreSQL and SQLAlchemy ORM 4. Implement secure authentication using JWT and OAuth 2.0 5. Create responsive web interfaces with React.js and TypeScript 6. Design modern UI components using Tailwind CSS 7. Deploy applications to cloud platforms (Railway, Vercel, AWS) 8. Collaborate with the team using Git/GitHub workflows",
+    "remoteType": "Remote",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "React Native",
+      "Work from home",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_059",
+    "company": "Green Earth Patron Foundation",
+    "role": "Web & Mobile UI/UX Designer And App Developer (Startup Role)",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 0,
+    "stipendMax": 0,
+    "durationMonths": 3,
+    "skills": [
+      "UI & UX Design",
+      "Mobile Application Development",
+      "Web development"
+    ]
+  },
+  {
+    "id": "INT_060",
+    "company": "Zorvyn",
+    "role": "Cloud Computing",
+    "location": "Amazon Web Services (AWS)",
+    "remoteType": "Remote",
+    "stipendMin": 40000,
+    "stipendMax": 40000,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home",
+      "Microsoft Azure"
+    ]
+  },
+  {
+    "id": "INT_061",
+    "company": "Full Stack Development",
+    "role": "Job offer starting ₹ 14LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 14,
+    "stipendMax": 14,
+    "durationMonths": 3,
+    "skills": [
+      "Webaxis Software Services"
+    ]
+  },
+  {
+    "id": "INT_062",
+    "company": "Part time",
+    "role": "Job offer upto ₹ 7LPA post internship",
+    "location": "Internet of Things (IoT)",
+    "remoteType": "Remote",
+    "stipendMin": 7,
+    "stipendMax": 7,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home",
+      "Emoolar Technology Private Limited"
+    ]
+  },
+  {
+    "id": "INT_063",
+    "company": "Product Management",
+    "role": "Part time",
+    "location": "Product Lifecycle Management(PLM)",
+    "remoteType": "Remote",
+    "stipendMin": 13000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home",
+      "English Proficiency (Spoken)",
+      "SKIDEV EDUTECH PRIVATE LIMITED"
+    ]
+  },
+  {
+    "id": "INT_064",
+    "company": "Brisk Elevators & Escalators Pvt Ltd",
+    "role": "Android App Development",
+    "location": "Bangalore",
+    "remoteType": "Onsite",
+    "stipendMin": 15000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_065",
+    "company": "LogBrick Solutions Private Limited",
+    "role": "Web Design – Wix/Framer Specialist",
+    "location": "1. Design high-converting websites for client projects 2. Create clean, structured layouts aligned with brand identity 3. Build landing pages and service pages 4. Implement basic CSS customizations where required 5. Optimize websites for mobile responsiveness 6. Work on revisions based on structured feedback 7. Deliver work on or before deadlines (non-negotiable) 8. Maintain proper documentation of builds and assets",
+    "remoteType": "Remote",
+    "stipendMin": 4000,
+    "stipendMax": 6000,
+    "durationMonths": 4,
+    "skills": [
+      "Work from home",
+      "UI & UX Design"
+    ]
+  },
+  {
+    "id": "INT_066",
+    "company": "Beqick Consultancy Services LLP",
+    "role": "Web Developer (Framer + Shopify + Basic SEO)",
+    "location": "Hyderabad",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 2,
+    "skills": [
+      "React Native",
+      "Vibe Coding"
+    ]
+  },
+  {
+    "id": "INT_067",
+    "company": "Product Management",
+    "role": "Job offer upto ₹ 4.5LPA post internship",
+    "location": "Product Lifecycle Management(PLM)",
+    "remoteType": "Onsite",
+    "stipendMin": 4,
+    "stipendMax": 4,
+    "durationMonths": 6,
+    "skills": [
+      "TheGoodGame Theory"
+    ]
+  },
+  {
+    "id": "INT_068",
+    "company": "ReddyAlgo",
+    "role": "Python Development",
+    "location": "1) Develop and implement algorithmic trading strategies in Python 2) Perform backtesting using historical market data to evaluate performance 3) Optimise strategies based on risk-reward metrics and performance indicators 4) Debug, maintain, and update existing trading strategies 5) Convert or develop strategies in Pine Script (TradingView) 6) Participate in short daily coordination meetings (approx. 15 minutes) 7) Document strategy logic, performance results, and modifications",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 18000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_069",
+    "company": "Kumi Labs",
+    "role": "Full Stack Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_070",
+    "company": "YS Tech Solutions",
+    "role": "Full Stack Mobile App Development (Flutter + Python) – Live Startup Project",
+    "location": "1. Working on the development of a real-world on-demand service mobile application. 2. Assisting in building mobile applications using Flutter (Android/iOS). 3. Developing and integrating backend APIs using Python (FastAPI/Flask). 4. Working with databases (PostgreSQL/MySQL) for storing and retrieving data. 5. Integrating Google Maps and location-based services. 6. Implementing core features such as booking flow, live tracking, and notifications. 7. Performing testing, identifying bugs, and assisting in fixing issues. 8. Supporting deployment, monitoring, and basic server management tasks. 9. Collaborating with the team remotely and participate in regular review meetings.",
+    "remoteType": "Remote",
+    "stipendMin": 2000,
+    "stipendMax": 2500,
+    "durationMonths": 3,
+    "skills": [
+      "Software Testing",
+      "REST API",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_071",
+    "company": "Zorvyn",
+    "role": "Software Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 40000,
+    "stipendMax": 45000,
+    "durationMonths": 6,
+    "skills": [
+      "Data Structures",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "INT_072",
+    "company": "Full Stack Development",
+    "role": "Job offer starting ₹ 16LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 16,
+    "stipendMax": 16,
+    "durationMonths": 1,
+    "skills": [
+      "She Can Foundation"
+    ]
+  },
+  {
+    "id": "INT_073",
+    "company": "Part time",
+    "role": "Job offer post internship",
+    "location": "1. WordPress content management: creating, editing, and publishing blog posts and pages on the company website. 2. Article Writing: Researching and drafting high-quality articles on topics like digital forensics, fraud investigation, and cyber security. 3. Professional Presentations: Designing high-impact PowerPoint (PPT) decks for corporate training and client webinars.",
+    "remoteType": "Remote",
+    "stipendMin": 3000,
+    "stipendMax": 4000,
+    "durationMonths": 2,
+    "skills": [
+      "ALGORITHA SECURITY PRIVATE LIMITED",
+      "Work from home",
+      "Digital Marketing"
+    ]
+  },
+  {
+    "id": "INT_074",
+    "company": "Web Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 0,
+    "stipendMax": 0,
+    "durationMonths": 1,
+    "skills": [
+      "She Can Foundation"
+    ]
+  },
+  {
+    "id": "INT_075",
+    "company": "Part time",
+    "role": "Job offer post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 0,
+    "stipendMax": 0,
+    "durationMonths": 1,
+    "skills": [
+      "She Can Foundation",
+      "Front End Development"
+    ]
+  },
+  {
+    "id": "INT_076",
+    "company": "Part time",
+    "role": "Job offer post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 4000,
+    "stipendMax": 4000,
+    "durationMonths": 3,
+    "skills": [
+      "Web Development",
+      "Digital Heroes",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "INT_077",
+    "company": "ThinkScaler",
+    "role": "ServiceNow Developer",
+    "location": "Unknown",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 6000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_078",
+    "company": "Full Stack Development",
+    "role": "Job offer upto ₹ 3LPA post internship",
+    "location": "Job Title: Full Stack Engineer – React, Next.js, Python & Generative AI Location: Bangalore (Hybrid / In-Office) Experience: 0-1 Years Employment Type: Full-time (Internship for first 6 Months) Job Summary We are looking for a Full Stack Engineer with hands-on experience in UI/UX, React, Next.js, and TypeScript, along with strong backend skills in Python and Flask. The role involves building end-to-end web applications, integrating Generative AI services, and delivering high-quality user and developer experiences. You will work closely with product, design, and AI teams to build scalable, AI-driven applications. Using AI coding helping tools. Also, able to develop and convert UI/UX designs based on requirement. Key Responsibilities Frontend • Build responsive and performant web applications using React, Next.js, and TypeScript • Implement SSR / SSG patterns using Next.js • Hands on Figma and Convert Figma designs into high-quality, reusable UI components • Manage frontend state, API integration, and error handling • Optimize frontend performance and accessibility • Ensure cross-browser and mobile compatibility Backend • Develop and maintain backend services using Python and Flask • Design and implement RESTful APIs for frontend and third-party integrations • Integrate Generative AI APIs (OpenAI, Gemini, Claude, etc.) • Handle prompt engineering, AI workflows, and response parsing • Implement secure authentication and authorization (JWT, OAuth, sessions) • Design and optimize database schemas and queries System & Collaboration • Own features end-to-end (frontend → backend → AI integration) • Write clean, testable, and maintainable code across the stack • Implement logging, monitoring, and error handling • Participate in code reviews and system design discussions • Collaborate closely with product managers, designers, and engineers Required Skills • Strong experience with React.js, Next.js, and TypeScript • Solid proficiency in Python • Hands-on experience with Flask or similar Python frameworks • Good understanding of REST API design and frontend-backend integration • Experience with MySQL or PostgreSQL • Exposure to Generative AI platforms (OpenAI, Gemini, Claude, etc.) • Understanding of JSON-based AI prompt and response handling • Knowledge of authentication mechanisms (JWT, OAuth, sessions) Preferred / Good-to-Have Skills • Experience with Tailwind CSS, Material UI, or similar UI libraries • Familiarity with background job systems (Celery, RQ) • Docker and basic deployment knowledge • Understanding of scalability, caching, and performance optimization • Exposure to cloud platforms (AWS / GCP / Azure) • Basic experience with CI/CD pipelines What We Offer • Work on AI-powered, real-world production systems • High ownership and fast learning environment • Hybrid work culture with Bangalore office • Career growth across Full Stack + AI engineering Ideal Candidate Profile • Has developed at least one production-grade full stack application • Comfortable switching between frontend and backend and UI/UX • Curious about AI products and prompt-driven systems • Startup mindset: ownership",
+    "remoteType": "Hybrid",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 6,
+    "skills": [
+      "UI & UX Design",
+      "NewZenAlpha Tech",
+      "Bangalore (Hybrid)"
+    ]
+  },
+  {
+    "id": "INT_079",
+    "company": "Mobile App Development",
+    "role": "Job offer upto ₹ 3.6LPA post internship",
+    "location": "We are looking for a mobile app full-stack developer who can independently handle mobile app development, backend, database, and deployment, including load balancing, releasing updates and notifications, API integration, and version control systems. Selected intern's day-to-day responsibilites include: 1. Develop Full stack mobile applications using Flutter or React Native 2. Develop and integrate REST APIs 3. Integrate third-party APIs (Payment Gateway, Maps, SMS, WhatsApp, etc.)",
+    "remoteType": "Onsite",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 3,
+    "skills": [
+      "Event Cube",
+      "Backend development",
+      "React Native",
+      "Frontend development",
+      "Noida, Kanpur Dehat, Manipur"
+    ]
+  },
+  {
+    "id": "INT_080",
+    "company": "AIMonk Labs Technology Limited",
+    "role": "Machine Learning Engineer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 25000,
+    "durationMonths": 6,
+    "skills": [
+      "C++ Programming",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_081",
+    "company": "Quality Assurance Engineer",
+    "role": "Job offer upto ₹ 9LPA post internship",
+    "location": "Software Development Life Cycle (SDLC)",
+    "remoteType": "Onsite",
+    "stipendMin": 9,
+    "stipendMax": 9,
+    "durationMonths": 3,
+    "skills": [
+      "Test Automation",
+      "Bug Tracking",
+      "Techdome Solutions Private Limited",
+      "Indore, Hyderabad",
+      "Test Case Design",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_082",
+    "company": "Parthavi Hotels And Travels LLP",
+    "role": "WordPress Development",
+    "location": "Selected intern's day-to-day responsibilities includes Content Management Upload and format blog posts, images, and videos on WordPress. Ensure menus, categories, and tags are properly organized. Website Customization Assist in editing themes and layouts to match brand guidelines. Configure plugins for added functionality (forms, SEO, caching). Troubleshooting & Support Identify and fix minor issues such as broken links, formatting errors, or plugin conflicts. Report technical problems to the senior developer for resolution. Performance & Testing Run daily checks for site speed and responsiveness. Test pages across browsers and devices to ensure compatibility. Documentation & Reporting Maintain a log of updates, changes, and fixes. Provide daily/weekly status updates on assigned tasks. Collaboration Work closely with the design and content team to implement updates. Participate in team discussions on improving user experience.",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 6000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_083",
+    "company": "JP IT STAFFING LLC",
+    "role": "Web Development",
+    "location": "Selected intern's day-to-day responsibilites include: 1. Develop web pages using HTML, CSS, JavaScript 2. Assist in frontend and backend tasks 3. Debug and improve website performance 4. Work with APIs and databases (basic) 5. Test and deploy web features",
+    "remoteType": "Remote",
+    "stipendMin": 2000,
+    "stipendMax": 8000,
+    "durationMonths": 3,
+    "skills": [
+      "Google Analytics",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_084",
+    "company": "Embedded Systems",
+    "role": "Part time",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Divide By Zero Technologies",
+      "Circuit Design",
+      "Raspberry Pi",
+      "ARM Microcontroller",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_085",
+    "company": "BharatGo",
+    "role": "Full Stack Development",
+    "location": "Amazon Web Services (AWS)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_086",
+    "company": "Full Stack Development",
+    "role": "Job offer upto ₹ 3.5LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 3,
+    "skills": [
+      "Emergence Software"
+    ]
+  },
+  {
+    "id": "INT_087",
+    "company": "Solutions Bajaj",
+    "role": "WordPress Development",
+    "location": "About Ardhanex Tech: Ardhanex Tech is building an AI-powered automation platform that integrates AI agents, CRM systems, voice AI, workflow automation, and backend orchestration. Our stack includes Python-based MCP servers, PHP (Perfex CRM), MySQL, DigitalOcean infrastructure, n8n automation, and multiple third-party API integrations. We work on real production systems and expect engineers to take ownership, debug fast, and build reliable backend solutions. Role Overview: We are looking for a Backend & Automation Engineer who will work on backend development, system integrations, automation workflows, and production system stability. This is a backend-first role. Frontend (React or WordPress) experience is a bonus, not a requirement. Key Responsibilities: 1. Develop and maintain backend systems using Python and PHP 2. Build, maintain, and debug REST API integrations 3. Design and maintain automation workflows (n8n, system integrations) 4. Manage and deploy applications on Linux servers (DigitalOcean, cPanel) 5. Debug and resolve production issues quickly and independently 6. Work with MySQL databases for backend operations 7. Monitor logs and diagnose system and integration failures 8. Support and maintain CRM and MCP server integrations Required Skills: Strong hands-on experience with Python or PHP Solid understanding of Linux, SSH, and server environments Experience working with REST APIs Practical knowledge of MySQL Strong debugging and troubleshooting mindset Experience deploying and maintaining backend systems in production Ability to work independently and take ownership of tasks Bonus Skills (Nice to Have): Fast API, Flask, or Django CodeIgniter or Perfex CRM Docker DigitalOcean or AWS Workflow automation tools (n8n) React (for frontend integrations) WordPress setup, customization, or integrations Candidate must have worked on projects or internship for at least 3 months.",
+    "remoteType": "Remote",
+    "stipendMin": 8000,
+    "stipendMax": 16000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_088",
+    "company": "GrowMeOrganic Private Limited",
+    "role": "ReactJS Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_089",
+    "company": "TeamLease Regtech",
+    "role": "System Administrator",
+    "location": "Database Management System (DBMS)",
+    "remoteType": "Hybrid",
+    "stipendMin": 7000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Technical Support",
+      "Bangalore (Hybrid)",
+      "Computer Networking"
+    ]
+  },
+  {
+    "id": "INT_090",
+    "company": "Bosscoder Academy",
+    "role": "Technical Doubt Support",
+    "location": "Noida",
+    "remoteType": "Onsite",
+    "stipendMin": 15000,
+    "stipendMax": 18000,
+    "durationMonths": 6,
+    "skills": [
+      "Data Structures",
+      "C++ Programming",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "INT_091",
+    "company": "Fambo Innovations Private Limited",
+    "role": "Quality Control",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 15000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Problem Solving",
+      "Food Safety"
+    ]
+  },
+  {
+    "id": "INT_092",
+    "company": "Full Stack Development",
+    "role": "Job offer upto ₹ 5LPA post internship",
+    "location": "1. Developing RESTful APIs using Python, with frameworks such as FastAPI or Django REST Framework (DRF). 2. Building and maintaining frontend components using React.js, including integration with backend APIs. 3. Debugging and fixing issues across the full stack (frontend, backend, and API layer). 4. Writing clean, modular, and well-documented code, following best practices.",
+    "remoteType": "Remote",
+    "stipendMin": 5,
+    "stipendMax": 5,
+    "durationMonths": 2,
+    "skills": [
+      "SociolinQ Technologies Private Limited",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_093",
+    "company": "Software Testing",
+    "role": "Job offer upto ₹ 5LPA post internship",
+    "location": "What You’ll Do 1. Assist in creating and executing manual test cases to validate software features and functionality. 2. Perform basic API testing using Postman or similar tools. 3. Log and track bugs using tools like JIRA, Trello, or other platforms. 4. Collaborate with developers and product managers to understand features and test requirements. 5. Participate in regression testing and user acceptance testing. 6. Learn and contribute to automation testing processes (if applicable). 7. Gain exposure to real-world QA processes within a high-growth product team.",
+    "remoteType": "Onsite",
+    "stipendMin": 5,
+    "stipendMax": 5,
+    "durationMonths": 6,
+    "skills": [
+      "Thane, Navi Mumbai, Mumbai",
+      "Grexa AI Private Limited",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_094",
+    "company": "Full Stack Development",
+    "role": "Job offer upto ₹ 5LPA post internship",
+    "location": "We are thrilled to offer an exciting opportunity for a full-stack development intern at Startup Knack! If you are passionate about Python, MySQL, JavaScript, Node.js, React, FastAPI, Next.js, PostgreSQL, machine learning, artificial intelligence, neural networks, data science, data engineering, Amazon EC2, AWS Lambda, DevOps, machine learning operations (MLOps), LLMOps, and Flask, then this role is perfect for you. As a key member of our team, you will have the chance to work on cutting-edge projects and gain hands-on experience in various tech stacks. 1. Develop and maintain front-end and back-end features using Python, JavaScript, and React. 2. Design and implement database solutions with MySQL and PostgreSQL. 3. Integrate AI and Machine Learning algorithms into our applications. 4. Work on cloud computing platforms such as Amazon EC2 and AWS Lambda. 5. Collaborate with the DevOps team to ensure smooth deployment and monitoring of applications. 6. Implement machine learning operations (MLOps) practices for model deployment and monitoring. 7. Utilize Flask for building web applications and APIs. If you are eager to learn, grow, and make a real impact in the tech industry, apply now and join us on this incredible journey at Startup Knack!",
+    "remoteType": "Remote",
+    "stipendMin": 5,
+    "stipendMax": 5,
+    "durationMonths": 6,
+    "skills": [
+      "Startup Knack",
+      "Work from home",
+      "Data Science",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_095",
+    "company": "NewZenAlpha Tech",
+    "role": "Backend Development",
+    "location": "1. Develop and maintain backend services using Python and Flask 2. Design and implement RESTful APIs for web and mobile applications 3. Integrate Generative AI APIs (OpenAI, Gemini, Claude, or similar) 4. Work on prompt engineering, response parsing, and AI workflow orchestration 5. Implement secure authentication and authorization (JWT, OAuth, sessions) 6. Design and optimize database schemas and queries 7. Ensure backend systems are scalable, maintainable, and testable 8. Implement logging, monitoring, and error handling 9. Collaborate with frontend teams (React) for smooth API integration 10. Participate in code reviews, debugging, and system design discussions",
+    "remoteType": "Hybrid",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "Bangalore (Hybrid)",
+      "Generative AI Development",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_096",
+    "company": "R And D Instrument Services",
+    "role": "Incoming Quality Check",
+    "location": "Chennai",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Report Generation"
+    ]
+  },
+  {
+    "id": "INT_097",
+    "company": "LLM Trace Analyst",
+    "role": "Job offer upto ₹ 2.5LPA post internship",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Hybrid",
+    "stipendMin": 2,
+    "stipendMax": 2,
+    "durationMonths": 3,
+    "skills": [
+      "Bangalore (Hybrid)",
+      "Data Analytics"
+    ]
+  },
+  {
+    "id": "INT_098",
+    "company": "Product Management",
+    "role": "Job offer starting ₹ 6LPA post internship",
+    "location": "Product Lifecycle Management(PLM)",
+    "remoteType": "Remote",
+    "stipendMin": 6,
+    "stipendMax": 6,
+    "durationMonths": 2,
+    "skills": [
+      "Market Analysis",
+      "LinkedIn Marketing",
+      "Work from home",
+      "Email Marketing",
+      "English Proficiency (Spoken)",
+      "Instagram Marketing"
+    ]
+  },
+  {
+    "id": "INT_099",
+    "company": "Embedded Systems",
+    "role": "Part time",
+    "location": "Unknown",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 12000,
+    "durationMonths": 6,
+    "skills": [
+      "Bilateral Solutions Private Limited",
+      "C++ Programming",
+      "C Programming",
+      "Mandi, Himachal Pradesh",
+      "Raspberry Pi",
+      "ARM Microcontroller"
+    ]
+  },
+  {
+    "id": "INT_100",
+    "company": "Python Development",
+    "role": "Job offer upto ₹ 4LPA post internship",
+    "location": "Unknown",
+    "remoteType": "Onsite",
+    "stipendMin": 4,
+    "stipendMax": 4,
+    "durationMonths": 6,
+    "skills": [
+      "Bilateral Solutions Private Limited",
+      "Data Structures",
+      "Mandi, Himachal Pradesh",
+      "REST API",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "INT_101",
+    "company": "Full Stack Development",
+    "role": "Job offer upto ₹ 4LPA post internship",
+    "location": "Bangalore",
+    "remoteType": "Onsite",
+    "stipendMin": 4,
+    "stipendMax": 4,
+    "durationMonths": 1,
+    "skills": [
+      "On Demand Experts"
+    ]
+  },
+  {
+    "id": "INT_102",
+    "company": "Across The Globe (ATG)",
+    "role": "UI/UX Testing/IOS Testing",
+    "location": "Are you a tech-savvy individual with a passion for UI/UX and iOS testing? Join our dynamic team at Across The Globe (ATG) as a UI/UX/iOS testing intern! 1. Conduct manual testing of UI/UX designs and iOS applications to identify bugs and issues 2. Develop and implement test automation scripts using Python and Selenium to streamline testing processes 3. Collaborate with the design and development teams to ensure usability testing meets user requirements 4. Analyze test results and provide detailed reports to assist in the improvement of products 5. Stay up-to-date on industry trends and best practices in UI/UX and iOS testing 6. Participate in team meetings and contribute innovative ideas to enhance testing strategies 7. Assist in the creation of test plans and test cases to ensure comprehensive test coverage If you are a detail-oriented individual with a strong technical background in testing and a desire to learn and grow in a global company, apply now for this exciting opportunity with ATG!",
+    "remoteType": "Remote",
+    "stipendMin": 2500,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": [
+      "Usability Testing",
+      "Work from home",
+      "Test Automation",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_103",
+    "company": "Cyber Security",
+    "role": "Part time",
+    "location": "1. Perform VAPT (Vulnerability Assessment and Penetration Testing) activities to detect, assess, and remediate security vulnerabilities. 2. Investigate and respond to security incidents within the SOC environment. 3. Monitor security alerts and analyze potential threats to ensure timely mitigation. 4. Support the creation, review, and enforcement of security policies, standards, and procedures. 5. Work closely with the IT team to implement and maintain security best practices across systems and networks. 6. Keep current with emerging cybersecurity trends, tools, and technologies. 7. Contribute to security awareness programs and actively participate in training initiatives across the organization. If you are enthusiastic about cybersecurity and looking to build your expertise in a dynamic, fast-paced setting, we encourage you to apply and become part of our team!",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 7000,
+    "durationMonths": 3,
+    "skills": [
+      "Web Application Security",
+      "Prime Infoserv LLP",
+      "Ethical Hacking"
+    ]
+  },
+  {
+    "id": "INT_104",
+    "company": "Quality Control Supervisor",
+    "role": "Job offer upto ₹ 3LPA post internship",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 4,
+    "skills": [
+      "Solapur, Indapur"
+    ]
+  },
+  {
+    "id": "INT_105",
+    "company": "Primetrade.ai",
+    "role": "Computer Science (Foundations)",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "Data Structures",
+      "Client Interaction",
+      "Problem Solving",
+      "Software Testing"
+    ]
+  },
+  {
+    "id": "INT_106",
+    "company": "Vedaz",
+    "role": "Software Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 5000,
+    "durationMonths": 3,
+    "skills": [
+      "React Native"
+    ]
+  },
+  {
+    "id": "INT_107",
+    "company": "CBS Ventures",
+    "role": "IT Executive",
+    "location": "As an IT executive intern at CBS Ventures, you will have the opportunity to utilize your skills in MS Office, computer networking, troubleshooting, software testing, database management system (DBMS), MySQL, Java, Python, HTML, CSS, cloud computing, and cybersecurity. 1. Assist in maintaining and troubleshooting the company's computer network to ensure optimal performance. 2. Conduct software testing to identify and resolve any bugs or issues that may arise. 3. Manage the company's database system, including organizing and updating data as needed. 4. Develop and implement cybersecurity measures to protect the company's sensitive information. 5. Collaborate with the IT team to integrate new technologies or software into the company's infrastructure. 6. Provide support and training to employees on IT-related issues or software usage. 7. Stay up to date on the latest IT trends and technologies to ensure the company remains competitive in the market. Join us at CBS Ventures and be part of a dynamic team where your IT skills will be valued and developed to their fullest potential.",
+    "remoteType": "Onsite",
+    "stipendMin": 7000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": "INT_108",
+    "company": "Farmdidi",
+    "role": "Quality Control Supervisor",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 4,
+    "skills": []
+  },
+  {
+    "id": "INT_109",
+    "company": "Tax-O-Smart LLP",
+    "role": "Application Deployment",
+    "location": "1. Design, implement, and manage CI/CD pipelines (e.g., using Jenkins, GitHub Actions, or GitLab) 2. Ensure system security, compliance, and backup strategies 3. Troubleshoot production issues and perform root cause analysis",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 12000,
+    "durationMonths": 6,
+    "skills": [
+      "Apache Tomcat"
+    ]
+  },
+  {
+    "id": "INT_110",
+    "company": "CipherSchools",
+    "role": "Problem Setter – Data Structures & Algorithms",
+    "location": "We are looking for passionate programmers who love solving problems and want to contribute to the learning journey of thousands of students. 1. Design original and engaging coding problems in data structures and algorithms (easy, medium, and hard). 2. Write clean test cases to validate correctness and edge cases. 3. Provide detailed editorial/solution explanations for each problem (in C++/Java/Python). 4. Review, debug, and test existing problems for quality assurance.",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Analytical Thinking",
+      "Data Structures",
+      "C++ Programming",
+      "Work from home",
+      "Problem Solving",
+      "Creative Writing"
+    ]
+  },
+  {
+    "id": "INT_111",
+    "company": "WordPress Web Development",
+    "role": "Job offer upto ₹ 6LPA post internship",
+    "location": "Search Engine Optimization (SEO)",
+    "remoteType": "Remote",
+    "stipendMin": 6,
+    "stipendMax": 6,
+    "durationMonths": 1,
+    "skills": [
+      "Hudi Enterprise",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_112",
+    "company": "Cite Works Studio",
+    "role": "Full Stack Development",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_113",
+    "company": "Software Testing",
+    "role": "Job offer upto ₹ 10LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10,
+    "stipendMax": 10,
+    "durationMonths": 3,
+    "skills": [
+      "Usability Testing",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_114",
+    "company": "Inorbvict Healthcare India Private Limited",
+    "role": "Flutter Development",
+    "location": "Pune",
+    "remoteType": "Onsite",
+    "stipendMin": 6000,
+    "stipendMax": 6001,
+    "durationMonths": 3,
+    "skills": [
+      "Mobile Application Development",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_115",
+    "company": "Eklavya.me",
+    "role": "Volunteer Beta Tester (Web, IOS & Android)",
+    "location": "English Proficiency (Written)",
+    "remoteType": "Remote",
+    "stipendMin": 1000,
+    "stipendMax": 1000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home",
+      "Usability Testing"
+    ]
+  },
+  {
+    "id": "INT_116",
+    "company": "WordPress Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 1000,
+    "stipendMax": 1000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_117",
+    "company": "Hardware Design Engineer",
+    "role": "Part time",
+    "location": "Selected intern's day-to-day responsibilites include: 1. Assisting in schematic design and review using EDA tools (Altium, KiCad, EasyEDA, or any). 2. Supporting PCB layout activities, including component placement, routing, and DRC checks. 3. Helping with component selection, footprint verification, and BOM preparation. 4. Assisting in power supply design, including LDOs, DC-DC converters, and protection circuits. 5. Assisting in prototype assembly and basic hardware testing. 6. Supporting initial board power-up and functional validation. 7. Helping debug hardware issues during testing. 8. Preparing and maintaining basic hardware documentation. 9. Coordinating with firmware, testing, mechanical, and purchase teams as required. Join us at CMS Info Systems and gain valuable hands-on experience in the exciting field of hardware design engineering!",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 6000,
+    "durationMonths": 6,
+    "skills": [
+      "Thane, Navi Mumbai, Mumbai",
+      "CMS Info Systems",
+      "PCB Design"
+    ]
+  },
+  {
+    "id": "INT_118",
+    "company": "AI Automation & Internal Agent",
+    "role": "Job offer upto ₹ 5LPA post internship",
+    "location": "English Proficiency (Written)",
+    "remoteType": "Onsite",
+    "stipendMin": 5,
+    "stipendMax": 5,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_119",
+    "company": "AKHARI KOSHISH FOUNDATION",
+    "role": "Automation Engineer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 1000,
+    "stipendMax": 1200,
+    "durationMonths": 3,
+    "skills": [
+      "C++ Programming",
+      "Document Management",
+      "Test Automation",
+      "Control systems"
+    ]
+  },
+  {
+    "id": "INT_120",
+    "company": "DigitalTrax - Creative Marketing Agency",
+    "role": "Website Developer(Wordpress/Shopify)",
+    "location": "Delhi",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 7000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_121",
+    "company": "Maxgen Technologies Private Limited",
+    "role": "Data Anlayst",
+    "location": "1. Developing and maintaining responsive web applications. 2. Enhancing the company website with interactive UI/UX features. 3. Working with front-end technologies like HTML, CSS, JavaScript, and React.js. 4. Building and optimizing backend APIs using Node.js, Django, or Flask. 5. Integrating databases (MySQL, MongoDB, or PostgreSQL) for dynamic content. 6. Ensuring website security, performance, and SEO optimization. 7. Collaborating with designers and business teams to improve user experience.",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 12000,
+    "durationMonths": 3,
+    "skills": [
+      "Web Development",
+      "Work from home",
+      "Part time",
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": "INT_122",
+    "company": "Full Stack Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": [
+      "Quantinent Analytics"
+    ]
+  },
+  {
+    "id": "INT_123",
+    "company": "Itzfizz Digital",
+    "role": "Web Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 7500,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_124",
+    "company": "ReactJS Development",
+    "role": "Part time",
+    "location": "Delhi (Hybrid)",
+    "remoteType": "Hybrid",
+    "stipendMin": 7000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Varsity Pro",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_125",
+    "company": "Python Development",
+    "role": "Job offer upto ₹ 8LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 8,
+    "stipendMax": 8,
+    "durationMonths": 6,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_126",
+    "company": "Buoyant Labs Private Limited",
+    "role": "Automation Testing",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 2,
+    "skills": [
+      "Test Automation"
+    ]
+  },
+  {
+    "id": "INT_127",
+    "company": "Mobrevenu Digital Services.",
+    "role": "IT Analyst And IT Operations",
+    "location": "This internship is designed for individuals who enjoy working with systems, processes, and communication. 1. Raise and manage IT change requests (CRs) and track them through the approval lifecycle 2. Coordinate with stakeholders to obtain timely approvals via emails and follow-ups 3. Monitor approval status, document updates, and ensure process compliance 4. Support IT operations and business teams with process documentation and communication 5. Maintain structured records of changes, approvals, and system updates",
+    "remoteType": "Onsite",
+    "stipendMin": 13000,
+    "stipendMax": 13000,
+    "durationMonths": 1,
+    "skills": [
+      "Analytical Thinking"
+    ]
+  },
+  {
+    "id": "INT_128",
+    "company": "PadosiAgent ServTech Pvt Ltd",
+    "role": "Full Stack Development",
+    "location": "Ahmedabad",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 7000,
+    "durationMonths": 3,
+    "skills": [
+      "Backend development",
+      "Frontend development"
+    ]
+  },
+  {
+    "id": "INT_129",
+    "company": "Learners Education Support Services",
+    "role": "Front End Development",
+    "location": "Unknown",
+    "remoteType": "Onsite",
+    "stipendMin": 7000,
+    "stipendMax": 9000,
+    "durationMonths": 3,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_130",
+    "company": "Enroll now",
+    "role": "Earn your government approved certification",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 6000,
+    "stipendMax": 8000,
+    "durationMonths": 4,
+    "skills": [
+      "Full Stack Development"
+    ]
+  },
+  {
+    "id": "INT_131",
+    "company": "Kothari Tech",
+    "role": "Web Development",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 7000,
+    "durationMonths": 4,
+    "skills": [
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": "INT_132",
+    "company": "Impresio Studio",
+    "role": "Photographer And Photo Editor",
+    "location": "Noida",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": [
+      "Interpersonal skills",
+      "Image Editing"
+    ]
+  },
+  {
+    "id": "INT_133",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "LLM evaluation",
+      "Backend Development"
+    ]
+  },
+  {
+    "id": "INT_134",
+    "company": "TSTEPS PRIVATE LIMITED",
+    "role": "Data Structures & Algorithms (DSA)",
+    "location": "Object Oriented Programming (OOP)",
+    "remoteType": "Hybrid",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "C++ Programming",
+      "Chennai, Puduchery (Hybrid)"
+    ]
+  },
+  {
+    "id": "INT_135",
+    "company": "TSTEPS PRIVATE LIMITED",
+    "role": "System Design Engineer",
+    "location": "Machine Learning Operations (MLOps)",
+    "remoteType": "Hybrid",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Hyderabad, Bangalore (Hybrid)"
+    ]
+  },
+  {
+    "id": "INT_136",
+    "company": "Sujith Kumar Gundala",
+    "role": "UI/UX Web And Mobile App Developer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 12000,
+    "stipendMax": 15000,
+    "durationMonths": 2,
+    "skills": [
+      "UI & UX Design",
+      "Mobile Application Development",
+      "React Native",
+      "Frontend development",
+      "Creative Thinking"
+    ]
+  },
+  {
+    "id": "INT_137",
+    "company": "SuperTails",
+    "role": "Product Management",
+    "location": "About the Role: We are looking for a Product Intern to work closely with the Healthcare Product team. This role is execution-heavy and impact-driven. You will help translate roadmap priorities into shipped outcomes, identify operational and product gaps across healthcare verticals, and collaborate with multiple teams to improve systems, reporting, and customer experience. This is an on-ground role at our Indiranagar HQ, Bangalore. Key Responsibilities: 1. Support execution of the healthcare product roadmap across online pharmacy, clinics, at-home services, and online consultations. 2. Identify gaps in communication flows across customers, internal ops teams, and doctors, improve data tracking and reporting, and resolve process inefficiencies and operational bottlenecks. 3. Work cross-functionally with operations, tech, customer support, and veterinary teams to drive fixes. 4. Assist in product discovery and exploration including problem scoping, requirement documentation, basic impact estimation, testing, and validation. 5. Analyze data to support decision-making and measure feature performance. Build and maintain dashboards and structured reporting to track KPIs across healthcare verticals. What We Are Looking For: Ownership mindset with strong bias for action. High curiosity and willingness to dig deep into data and processes. Ability to navigate ambiguous and complex operational environments. Empathy for pets and genuine interest in improving pet healthcare outcomes. Willingness to work closely with ground teams and understand real operational challenges.",
+    "remoteType": "Onsite",
+    "stipendMin": 14999,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Analytical Thinking",
+      "Google Analytics",
+      "Effective Communication",
+      "Problem Solving",
+      "Advanced Excel"
+    ]
+  },
+  {
+    "id": "INT_138",
+    "company": "Build Fast With AI",
+    "role": "Full Stack Development",
+    "location": "We're seeking a talented and enthusiastic 'Next.js developer intern' to join our innovative team. This internship offers a unique opportunity to work on cutting-edge projects involving Next.js, TypeScript, Python, OpenAI integration, retrieval-augmented generation (RAG), and the Vercel AI SDK. Ideal for students or recent graduates passionate about web development and AI technologies. 1. Assist in developing and maintaining Next.js applications, focusing on integrating AI capabilities. 2. Develop and optimize Python scripts for data preprocessing, model training, and inference. 3. Integrate large language models (e.g., OpenAI, Hugging Face, LLaMA) into web or command-line tools. 4. Fine-tune LLMs for domain-specific tasks using open-source frameworks (like LangChain, Transformers, or PEFT). 5. Create evaluation pipelines to assess model outputs for accuracy, coherence, and relevance. 6. Experiment with prompt engineering, RAG (Retrieval-Augmented Generation), and vector databases. 7. Participate in the full application development lifecycle, from initial design to deployment. 8. Collaborate with the team to optimize website performance and troubleshoot issues as they arise. 9. Engage in code reviews to enhance your skills and contribute to the team's professional development. 10. Attend team meetings and collaborate across departments to align projects with overarching business objectives. 11. Document your work thoroughly and contribute to the team's knowledge base for future reference and learning. If you're passionate about web development, eager to learn about AI integration, and ready to contribute to innovative projects, we want to hear from you! Apply now and take your first step toward a career in advanced web development.",
+    "remoteType": "Remote",
+    "stipendMin": 7500,
+    "stipendMax": 7500,
+    "durationMonths": 3,
+    "skills": [
+      "REST API",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_139",
+    "company": "Backend Development",
+    "role": "Part time",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "Coding Junior"
+    ]
+  },
+  {
+    "id": "INT_140",
+    "company": "RootSky System (OPC) Private Limited",
+    "role": "DevOps & Infrastructure",
+    "location": "1. Environment Setup: Install and configure development environments for Frappe Framework, Laravel (PHP), and Python applications. 2. Deployment: Assist in cloud deployment tasks and manage server-side configurations. 3. Tooling & Scripting: Use JavaScript and Python to automate repetitive installation tasks and system checks. 4. Network Support: Apply basic IT Networking concepts (IP addressing, DNS, SSH, Firewalls) to troubleshoot connectivity between tools and servers. 5. Maintenance: Monitor system health and ensure all internal software tools are updated and running efficiently.",
+    "remoteType": "Onsite",
+    "stipendMin": 7000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": [
+      "Cloud Computing",
+      "ERP Implementation and Deployment",
+      "Noida, Delhi"
+    ]
+  },
+  {
+    "id": "INT_141",
+    "company": "BharatGo",
+    "role": "QA Testing",
+    "location": "1. Collaborate with cross-functional teams to understand project requirements and objectives and develop comprehensive test plans 2. Create detailed, clear, and effective test cases to ensure comprehensive test coverage 3. Execute test cases, report defects, and validate fixes, ensuring software meets quality standards 4. Develop and maintain automated test scripts using Cypress/Selenium and other relevant tools 5. Conduct regression testing to verify that new code does not adversely affect existing features 6. Conduct post-release/post-implementation testing 7. Report all bugs clearly on Jira and maintain status and progress to closure 8. Maintain accurate records of test processes, results, and any necessary documentation 9. Effectively communicate testing progress, results, and any potential risks to the development team and stakeholders 10. Collaborate with developers to resolve defects and provide assistance when required in frontend and backend development using React.js and Node.js 11. Implement QA processes (Define bug life cycle, release notes, sign off for UAT, and uploading it to production) 12. Stay updated with industry best practices in testing and automation to improve testing processes Requirements: 1. Bachelor's or Master's degree in Computer Science or a relevant field 2. Proven experience as a Quality Analyst or similar role in software development 3. Strong understanding of software QA methodologies, tools, and processes 4. Proficiency in writing clear, concise, and comprehensive test plans and test cases 5. Experience with automated testing tools, particularly Cypress 6. Familiarity with web development technologies such as React.js and Node.js is an advantage 7. Excellent problem-solving skills and attention to detail 8. Strong communication and collaboration abilities 9. Ability to work effectively in a fast-paced, dynamic environment 10. Proven ability to troubleshoot and resolve complex technical issues 11. Embrace the fast-paced and dynamic environment of a startup, driven by a passion for making a positive impact",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Usability Testing",
+      "Data Structures",
+      "Test Automation",
+      "Software Testing",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_142",
+    "company": "Software Development",
+    "role": "Job offer upto ₹ 3.5LPA post internship",
+    "location": "1. Build and maintain fast, scalable server-side applications 2. Design robust APIs and data models with PostgreSQL as your go-to database 3. Dockerize everything—because reproducible environments matter 4. Help us deploy, monitor, and scale services in the cloud (we use AWS) 5. Debug, test, and optimize back-end systems for performance and reliability 6. Stay sharp on modern back-end tools, patterns, and trends—and bring your ideas to the table",
+    "remoteType": "Remote",
+    "stipendMin": 3,
+    "stipendMax": 3,
+    "durationMonths": 6,
+    "skills": [
+      "REST API",
+      "Work from home",
+      "Gridmetry Gmbh (Munich, Germany)"
+    ]
+  },
+  {
+    "id": "INT_143",
+    "company": "AWS Cloud Management",
+    "role": "International",
+    "location": "Certification Preparation Study and prepare for cloud and infrastructure certifications required by AICERA (such as AWS, Microsoft Azure, Nutanix, etc.) using provided learning materials and guidance. Exam Completion Appear for and complete assigned certification exams within agreed timelines to help AICERA meet partnership requirements with cloud and technology providers. Learning & Knowledge Documentation Maintain basic notes, progress updates, and key learnings from the preparation process for internal reference.",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 12000,
+    "durationMonths": 6,
+    "skills": [
+      "Aicera Systems Private Limited"
+    ]
+  },
+  {
+    "id": "INT_144",
+    "company": "Weframe Tech",
+    "role": "Flutter Development",
+    "location": "Flutter Development Intern (Full-Time | 6 Months Minimum+PPO) As a Flutter Development Intern at Weframe Tech, you will have the opportunity to work on cutting-edge projects and collaborate with a dynamic team of developers. This role is designed for motivated individuals who are eager to gain hands-on experience in both mobile and backend development. Required Skills Proficiency in Flutter and Dart Strong knowledge of REST APIs Experience with Firebase Working knowledge of JavaScript and Node.js (backend development) Basic understanding of JavaScript frameworks and backend integration Responsibilities Develop and maintain mobile applications using the Flutter framework Build and integrate REST APIs and Firebase services for seamless functionality Contribute to backend development using Node.js and JavaScript Collaborate with cross-functional teams to design, develop, and test software solutions Troubleshoot, debug, and optimize applications for performance and user experience Assist in designing and implementing intuitive user interfaces Participate in code reviews and provide constructive feedback to improve code quality Stay up to date with the latest trends and technologies in mobile and backend development Internship Details Duration: Minimum 6 months Type: Full-time Candidates must be familiar with the required technologies and committed for the full duration Screening Question (Mandatory) If you have read the job description carefully, please answer the screening question with the following text exactly: Flutter1Q12026 Pay 7k to 15k depending on your skills If you are a passionate and driven individual looking to build strong skills in Flutter and backend development, apply now to join our innovative team at Weframe Tech.",
+    "remoteType": "Remote",
+    "stipendMin": 9000,
+    "stipendMax": 25000,
+    "durationMonths": 6,
+    "skills": [
+      "Work from home",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_145",
+    "company": "Web3Task",
+    "role": "Game Development",
+    "location": "We are seeking a highly analytical and versatile Game Developer to join our team. This is a foundational role for a passionate developer who wants to build compelling game experiences across platforms, with an approach rooted in strong engineering principles, mathematics, and physics.  Selected intern’s day-to-day responsibilities include: 1. Game Development (2D Focus): Design, implement, and optimize robust gameplay systems primarily using the Unity Engine with C#. This includes developing 2D character controllers, environmental interactions, and custom physics behaviors. 2. Code Architecture: Focus on writing clean, modular, and reusable code, adhering to software design patterns (e.g., Component-Based Architecture) to ensure project scalability and maintainability. 3. System Implementation: Implement and maintain various game systems, including input management, animation integration (Mecanim), and audio systems. 4. Technical Agility: Demonstrate an eager willingness to learn and adapt to new programming languages, tools, or platform APIs as project needs evolve. 5. Ownership: Willingness to take end-to-end ownership of projects, from initial architecture design to final deployment on target stores (iOS and Android). 6. Performance Optimization: Profile and optimize code to ensure smooth frame rates and efficient resource usage on target platforms (PC, Mobile).",
+    "remoteType": "Hybrid",
+    "stipendMin": 9000,
+    "stipendMax": 17000,
+    "durationMonths": 3,
+    "skills": [
+      "Blender 3D"
+    ]
+  },
+  {
+    "id": "INT_146",
+    "company": "Ampsys Consulting Private Limited",
+    "role": "AI/Full-Stack Tech",
+    "location": "1. Process PDFs and documents by detecting document types (CAS, CML, MF statements), and extract structured data using OCR, LLMs, and parsing libraries 2. Develop AI and LLM solutions including prompt engineering, classification, and extraction models 3. Build and extend .NET backend APIs and implement ETL and transformation logic 4. Support frontend development by creating Angular components for document upload and review 5. Perform data engineering tasks including SQL operations, data validation, and normalization",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "MS SQL Server",
+      "REST API",
+      "Microsoft Azure"
+    ]
+  },
+  {
+    "id": "INT_147",
+    "company": "Edwise Overseas Education Consultants",
+    "role": "Applied AI",
+    "location": "Database Management System (DBMS)",
+    "remoteType": "Hybrid",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 2,
+    "skills": [
+      "Backend development",
+      "Mumbai (Hybrid)",
+      "Artificial intelligence",
+      "Generative AI Tools",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": "INT_148",
+    "company": "Xartup Fellowship",
+    "role": "Software Development Engineering (Vibe Coding)",
+    "location": "1. Build a VC sourcing web app end-to-end (MVP to usable product) 2. Write Python scripts/pipelines to collect founder and company data (scraping/APIs), clean/dedupe it, and store it reliably 3. Design the data model and database (tables/collections, indexing, analytics-ready structure) 4. Build the interface/dashboard (full stack or vibe coding tools like Lovable, Supabase/Firebase) for search, filters, lists, and profiles 5. Implement key workflows like pipeline, enrichment, scoring/tagging, saved lists, exports (CSV/Google Sheets) 6. Handle basics of production readiness like error handling, logs, rate limits, retries, and simple monitoring 11. Collaborate async with clear updates and documentation, shipping working builds weekly",
+    "remoteType": "Remote",
+    "stipendMin": 8000,
+    "stipendMax": 8000,
+    "durationMonths": 4,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_149",
+    "company": "Vilambo Private Limited",
+    "role": "AI Agent Developer",
+    "location": "Vilambo Private Limited is a technology company building AI products t. We're developing an AI-powered reverse recruiting platform that automates job application workflows using sophisticated browser agents and multi-agent systems. We're seeking a technically skilled AI Agent Developer Intern to design and build production-grade AI agents. You'll work on real-world automation challenges — building browser agents, crafting LLM-powered workflows with LangChain/LangGraph, and shipping features that users depend on. Top performers will receive full-time employment offers based on their contributions during the internship. 1. Build AI agents using LangChain, LangGraph, CrewAI, and Pydantic AI 2. Develop automation workflows using n8n and integrate third-party services 3. Integrate LLM APIs including OpenAI and Anthropic Claude with strong prompt and context engineering 4. Create browser agents using BrowserAutomaton tools for web automation workflows 5. Implement MCP (Model Context Protocol) integrations and reusable tool functions 6. Develop frontend interfaces using React or Next.js and manage application data with Supabase 7. Write clean, well-documented code in Python and JavaScript while using Git for version control",
+    "remoteType": "Remote",
+    "stipendMin": 1000,
+    "stipendMax": 1000,
+    "durationMonths": 3,
+    "skills": [
+      "Artificial intelligence",
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_150",
+    "company": "Farmdidi",
+    "role": "Quality Control Supervisor",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 4,
+    "skills": []
+  },
+  {
+    "id": "INT_151",
+    "company": "Minus Equals Plus",
+    "role": "Framer Enthusiast (Build A World-Class Personal Portfolio)",
+    "location": "English Proficiency (Spoken)",
+    "remoteType": "Remote",
+    "stipendMin": 2000,
+    "stipendMax": 3000,
+    "durationMonths": 3,
+    "skills": [
+      "Work from home"
+    ]
+  },
+  {
+    "id": "INT_152",
+    "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED",
+    "role": "Game Tester",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_153",
+    "company": "Zorvyn",
+    "role": "Front End Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 35000,
+    "stipendMax": 35000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_154",
+    "company": "Engineering (AI/ML & Full Stack)",
+    "role": "Job offer starting ₹ 11LPA post internship",
+    "location": "Artificial Intelligence Markup Language (AIML)",
+    "remoteType": "Hybrid",
+    "stipendMin": 11,
+    "stipendMax": 11,
+    "durationMonths": 2,
+    "skills": [
+      "Artificial intelligence",
+      "Kanad Networks",
+      "Neural Networks",
+      "Delhi, Gurgaon (Hybrid)"
+    ]
+  },
+  {
+    "id": "INT_155",
+    "company": "AI-Crypto Transactions Tracking",
+    "role": "Job offer upto ₹ 15LPA post internship",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 15,
+    "stipendMax": 15,
+    "durationMonths": 3,
+    "skills": [
+      "Graphic Design",
+      "New Business Strategies Corporation"
+    ]
+  },
+  {
+    "id": "INT_156",
+    "company": "GR8ame",
+    "role": "Streamer",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 1000,
+    "stipendMax": 1000,
+    "durationMonths": 1,
+    "skills": [
+      "Computer skills"
+    ]
+  },
+  {
+    "id": "INT_157",
+    "company": "Techwondoe India Private Limited",
+    "role": "Mobile App Development",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 25000,
+    "durationMonths": 6,
+    "skills": [
+      "React Native",
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_158",
+    "company": "BinaryDots Technology Private Limited",
+    "role": "PHP Development",
+    "location": "1. Working on PHP & Laravel-based web application development 2. Assisting in backend feature development using Laravel (controllers, models, APIs) 3. Writing and optimizing MySQL queries, joins, and stored procedures 4. Integrating REST APIs and handling JSON-based data flow 5. Debugging issues, fixing bugs, and improving application performance 6. Supporting database design, migrations, and data validation 7. Collaborating with senior developers on real production modules 8. Writing clean, maintainable, and well-documented code 9. Learning and following best coding practices and security standards",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 25000,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_159",
+    "company": "SelfCode Academy",
+    "role": "Hindi Lecture Recording Faculty – Cybersecurity Awareness & Digital Safety Practices",
+    "location": "Work from home",
+    "remoteType": "Remote",
+    "stipendMin": 10000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "Computer skills"
+    ]
+  },
+  {
+    "id": "INT_160",
+    "company": "Subject Matter Expert (SME) - AI/ML",
+    "role": "Part time",
+    "location": "1. Help Desk (Support users with your technical expertise) 2. Infrastructural support 3. Network, SIEM monitoring",
+    "remoteType": "Hybrid",
+    "stipendMin": 12000,
+    "stipendMax": 35000,
+    "durationMonths": 3,
+    "skills": [
+      "Firewall Configuration",
+      "REST API",
+      "Computer Networking",
+      "Computer skills",
+      "E-Revbay Private Limited"
+    ]
+  },
+  {
+    "id": "INT_161",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Search Engine Optimization (SEO)",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 3,
+    "skills": [
+      "WordPress Development",
+      "Aryan Jalan"
+    ]
+  },
+  {
+    "id": "INT_162",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "English Proficiency (Written)",
+    "remoteType": "Onsite",
+    "stipendMin": 0,
+    "stipendMax": 0,
+    "durationMonths": 3,
+    "skills": [
+      "Thane, Navi Mumbai, Mumbai"
+    ]
+  },
+  {
+    "id": "INT_163",
+    "company": "Leapswitch Networks Private Limited",
+    "role": "Linux System Admin",
+    "location": "Selected intern's day-to-day responsibilities: 1. Assist in the installation, configuration, and basic troubleshooting of Linux systems. 2. Support disk management, file systems, permissions, and system logs. 3. Help with basic virtualization concepts (KVM/VMware). 4. Assist in managing web servers (Apache/Nginx) and databases. 5. Support DNS, hosting panels (cPanel/Plesk), and basic networking tasks. 6. Maintain system documentation and follow standard procedures.",
+    "remoteType": "Onsite",
+    "stipendMin": 15000,
+    "stipendMax": 15000,
+    "durationMonths": 3,
+    "skills": [
+      "Linux Administration",
+      "Mumbai, Wadala",
+      "Apache Server"
+    ]
+  },
+  {
+    "id": "INT_164",
+    "company": "Circuitloop Technologies LLP",
+    "role": "Electronics Engineering",
+    "location": "Jaipur",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 13000,
+    "durationMonths": 3,
+    "skills": [
+      "Embedded Systems",
+      "C Programming",
+      "Circuit Design",
+      "Raspberry Pi",
+      "ARM Microcontroller"
+    ]
+  },
+  {
+    "id": "INT_165",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "User Interface (UI) Development",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Planeteye Infra",
+      "REST API",
+      "Front End Development"
+    ]
+  },
+  {
+    "id": "INT_166",
+    "company": "Fx31 Labs",
+    "role": "WordPress Development",
+    "location": "Search Engine Optimization (SEO)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 5001,
+    "durationMonths": 3,
+    "skills": []
+  },
+  {
+    "id": "INT_167",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": [
+      "Quality Systems & Operations",
+      "RPM Engineering Services"
+    ]
+  },
+  {
+    "id": "INT_168",
+    "company": "AAVISHAMYA",
+    "role": "Laptop & Mobile Repair Technician",
+    "location": "Mumbai, Naur",
+    "remoteType": "Onsite",
+    "stipendMin": 6000,
+    "stipendMax": 15000,
+    "durationMonths": 6,
+    "skills": [
+      "Computer skills"
+    ]
+  },
+  {
+    "id": "INT_169",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Software Development Life Cycle (SDLC)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 7000,
+    "durationMonths": 6,
+    "skills": [
+      "Effective Communication",
+      "Propark Softech Private Limited",
+      "Bug Tracking",
+      "Test Case Design",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "INT_170",
+    "company": "PANDIT JI FOODS",
+    "role": "Factory Manager",
+    "location": "Quality Assurance/Quality Control (QA/QC)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 10000,
+    "durationMonths": 6,
+    "skills": [
+      "Decision making",
+      "Effective Communication",
+      "Problem Solving",
+      "Team Management",
+      "Inventory Management",
+      "Report Writing"
+    ]
+  },
+  {
+    "id": "INT_171",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "1. Using the school ERP system like a normal user (admin, teacher, student, or parent) to check whether all features are working properly. 2. Noting down any problems, confusion, or difficulties faced while using the system and writing clear feedback in simple words. 3. Preparing basic reports and documents explaining what works well, what does not work, and how easy or difficult the system is to use.",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 8001,
+    "durationMonths": 3,
+    "skills": [
+      "Usability Testing",
+      "Document Management",
+      "Pragati Setu",
+      "Software Testing",
+      "Manual Testing",
+      "Report Writing"
+    ]
+  },
+  {
+    "id": "INT_172",
+    "company": "Lucidbox Technologies",
+    "role": "WordPress Development",
+    "location": "Search Engine Optimization (SEO)",
+    "remoteType": "Onsite",
+    "stipendMin": 5000,
+    "stipendMax": 5000,
+    "durationMonths": 2,
+    "skills": [
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "id": "INT_173",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Mumbai",
+    "remoteType": "Onsite",
+    "stipendMin": 5500,
+    "stipendMax": 9000,
+    "durationMonths": 6,
+    "skills": [
+      "Research and Analytics",
+      "Aviate Manpower"
+    ]
+  },
+  {
+    "id": "INT_174",
+    "company": "199 Developments Private Limited",
+    "role": "iOS App Development",
+    "location": "Ahmedabad",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 12000,
+    "durationMonths": 3,
+    "skills": [
+      "REST API"
+    ]
+  },
+  {
+    "id": "INT_175",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "1. Conducting a thorough assessment of the \"AS IS\" practices and work methodologies of Hospitals. 2. Identifying gaps between existing practices and NABH standards. 3. Understanding the customer requirements and work culture in structured manner 4. Developing policies, SOPs (Standard Operating Procedures) and manuals in compliance with NABH guidelines. 5. Assisting in record-keeping and documentation processes essential for accreditation. 6. Organizing training programs for hospital staff including doctors, nurses, paramedics and administrative personnel. 7. Conducting workshops and seminars to educate staff on quality standards, patient safety and best practices.",
+    "remoteType": "Onsite",
+    "stipendMin": 9000,
+    "stipendMax": 18000,
+    "durationMonths": 6,
+    "skills": [
+      "Statistical Modeling",
+      "Problem Solving",
+      "Project Management",
+      "Himalaya Enterprises",
+      "Report Writing"
+    ]
+  },
+  {
+    "id": "INT_176",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "1. Code Refactoring & Optimization: Analyze and refine existing Laravel code to improve performance and maintainability, ensuring it adheres to OOP (Object-Oriented Programming) principles. 2. Feature Implementation: Build and deploy new website modules using the MVC (Model-View-Controller) architecture to keep the codebase organized and scalable. 3. Debugging & Troubleshooting: Identify and resolve technical glitches or \"bugs\" within the existing system to ensure a seamless user experience. 4. Version Control Management: Use GIT for daily task management, ensuring clean branching, meaningful commit messages, and collaborative code reviews.",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 18000,
+    "durationMonths": 6,
+    "skills": [
+      "Bhawesh Thapa",
+      "Work from home",
+      "PHP Development",
+      "Bhawesh  Thapa"
+    ]
+  },
+  {
+    "id": "INT_177",
+    "company": "QuantGlobal",
+    "role": "Quantitative Developer",
+    "location": "Robot Operating System (ROS)",
+    "remoteType": "Remote",
+    "stipendMin": 15000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "C++ Programming",
+      "Work from home",
+      "Part time",
+      "Be an early applicant"
+    ]
+  },
+  {
+    "id": "INT_178",
+    "company": "SHIPLABS PRIVATE LIMITED",
+    "role": "Product Engineering – SHIPLABS (Hyderabad | On-site)",
+    "location": "We are looking for an IT systems intern to set up and manage Zoho One Business Suite applications and handle basic website updates for our interior design firm. You will work closely with the founder to implement systems that streamline HR, CRM, marketing, project tracking, legal, analytics, customer and vendor portals and workflows. A. Zoho setup & implementation: 1. Set up and configure Zoho One Business Suite that includes but not limited to Zoho People, Zoho Recruit, Zoho CRM, Zoho Books, Zoho Social and campaigns, Zoho Projects, creator, sign, legal etc. 2. Create users, roles, permissions, and workflows 3. Design forms, approvals, and automation rules 4. Integrate apps across the Zoho ecosystem 5. Maintain data accuracy and ensure smooth implementation B. Zoho operations support: 1. Troubleshoot issues 2. Create dashboards and reports 3. Document SOPs for system usage 4. Provide support to team members C. Website updates (Hostinger): 1. Update text, images, and pages on WordPress/Hostinger 2. Fix layout or basic design issues 3. Upload portfolio projects and blogs 4. Ensure site responsiveness and clean UI 5. Integrate the existing website, email domain, and storage in Zoho 6. Coordinate with hosting support if required D. Technical support: 1. Conduct basic troubleshooting for emails, integrations, or website errors 2. Assist in setting up domain/CNAME/SSL configurations (guidance provided)",
+    "remoteType": "Hybrid",
+    "stipendMin": 2000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": [
+      "Communication Skills",
+      "Mumbai (Hybrid)",
+      "Zoho CRM",
+      "Integration Testing",
+      "IT Systems",
+      "SYSTEM ADMINISTRATOR",
+      "Zoho Books"
+    ]
+  },
+  {
+    "id": "INT_179",
+    "company": "AAAMT Verticals Private Limited",
+    "role": "Product Manager",
+    "location": "Hyderabad",
+    "remoteType": "Onsite",
+    "stipendMin": 8000,
+    "stipendMax": 12000,
+    "durationMonths": 4,
+    "skills": [
+      "Product Strategy",
+      "Analytical Thinking",
+      "Agile Methodology",
+      "Effective Communication",
+      "Logical reasoning"
+    ]
+  },
+  {
+    "id": "INT_180",
+    "company": "Computer Vision",
+    "role": "Job offer upto ₹ 4LPA post internship",
+    "location": "• Assist in implementing object detection models (YOLO-based) for CCTV use cases • Support video stream processing from IP cameras (RTSP feeds) • Help build and test multi-camera video processing pipelines • Assist in object tracking implementation (SORT / DeepSORT) • Perform data annotation and dataset preparation • Test model performance and log evaluation metrics • Help optimize inference performance for near real-time processing • Assist in integrating detection outputs with alert systems • Debug and troubleshoot video pipeline issues • Document experiments, results, and deployment steps",
+    "remoteType": "Onsite",
+    "stipendMin": 4,
+    "stipendMax": 4,
+    "durationMonths": 3,
+    "skills": [
+      "Full Stack Development",
+      "Prabhabi Infocom"
+    ]
+  },
+  {
+    "id": "INT_181",
+    "company": "Be an early applicant",
+    "role": "early applicant icon",
+    "location": "Bangalore",
+    "remoteType": "Remote",
+    "stipendMin": 5000,
+    "stipendMax": 8000,
+    "durationMonths": 6,
+    "skills": [
+      "Web development",
+      "REST API",
+      "Computer skills"
+    ]
+  },
+  {
+    "id": "INT_182",
+    "company": "Wordscloud",
+    "role": "Full Stack Development",
+    "location": "As a Full Stack Development intern at Wordscloud, you will have the opportunity to work with cutting-edge technologies like Node.js, MySQL, Next.js, and MERN stack. You will play a crucial role in developing and maintaining our innovative platform that revolutionizes the way we do work. 1. Collaborate with the development team to design and implement new features for the Serpbays platform (Our inHouse Product). 2. Build responsive and user-friendly interfaces using Next.js for an optimal user experience. 3. Develop scalable and efficient backend services using Node.js and MySQL for data storage. 4. Use MERN stack to integrate front-end components with back-end services for seamless functionality. 5. Conduct thorough testing and debugging to ensure the platform's reliability and performance. 6. Stay updated on the latest trends and best practices in full stack development to enhance your skills. 7. Assist in troubleshooting and resolving technical issues to maintain the platform's stability. Join us at Wordscloud for an exciting internship experience where you can hone your skills and make a real impact on our growing platform!",
+    "remoteType": "Onsite",
+    "stipendMin": 10000,
+    "stipendMax": 20000,
+    "durationMonths": 6,
+    "skills": []
+  },
+  {
+    "id": "INT_183",
+    "company": "Keshav Farmaha",
+    "role": "Front End Development",
+    "location": "1. Develop Python scripts/tools to create, edit, merge and secure PDF files (e.g., reports, working papers, invoices). 2. Build small internal utilities for file handling, data cleaning and report generation (CSV/Excel to PDF, etc.). 3. Integrate popular Python libraries (e.g., for PDFs, Excel, automation) into simple command‑line or GUI tools for office use. 4. Write clean, well‑documented code and maintain basic version control for scripts. 5. Test tools with real office use‑cases, collect feedback from users and refine accordingly.",
+    "remoteType": "Hybrid",
+    "stipendMin": 10000,
+    "stipendMax": 12000,
+    "durationMonths": 2,
+    "skills": [
+      "Software Development",
+      "Be an early applicant"
+    ]
+  }
+]

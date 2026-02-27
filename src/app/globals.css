@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 2, 6, 23;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: #020617;
+  min-height: 100vh;
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/[0.03] backdrop-blur-xl border border-white/[0.08] shadow-2xl rounded-[2.5rem] transition-all duration-300;
+  }
+  
+  .btn-primary {
+    @apply bg-[#5B6FF6] hover:bg-[#7C5CFF] text-white font-semibold px-6 py-3 rounded-xl transition-all duration-300 shadow-[0_0_20px_rgba(91,111,246,0.3)] hover:shadow-[0_0_30px_rgba(91,111,246,0.5)] active:scale-95 text-center;
+  }
+
+  .btn-secondary {
+    @apply bg-white/5 hover:bg-white/10 border border-white/10 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-300 active:scale-95 text-center;
+  }
+}
+
+/* Logo Animations */
+@keyframes logo-spin {
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes bounce-subtle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-spin-slow {
+  animation: logo-spin 10s linear infinite;
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 3s ease-in-out infinite;
+}
+
+.animate-spin-fast-reverse {
+  animation: logo-spin 5s linear infinite reverse;
+}
+
+.mesh-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-color: #020617;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(91, 111, 246, 0.12) 0px, transparent 55%),
+    radial-gradient(at 100% 0%, rgba(33, 212, 189, 0.08) 0px, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(124, 92, 255, 0.05) 0px, transparent 60%),
+    radial-gradient(at 0% 100%, rgba(33, 212, 189, 0.04) 0px, transparent 50%);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
