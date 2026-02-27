@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { Bar } from "react-chartjs-2";
+import { calculateReadiness, calculateAcceptanceProbability } from "@/lib/utils/calculations";
 import {
   Chart as ChartJS,
   CategoryScale,
