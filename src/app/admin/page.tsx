@@ -4,9 +4,10 @@ import { authOptions } from "@/lib/auth";
 import { redirect } from "next/navigation";
 import Link from "next/link";
 
+export const dynamic = "force-dynamic"
+
 export default async function AdminPage() {
   const session = await getServerSession(authOptions);
-
   // Strict Admin Role Check
   if (!session || !session.user || (session.user as any).role !== 'ADMIN') {
     return (

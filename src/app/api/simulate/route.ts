@@ -8,6 +8,8 @@ import { getTopMatches } from "@/lib/matching/matchingEngine";
 import { getSkillDemandMap } from "@/lib/market/skillDemandEngine";
 import { logEvent } from "@/lib/analytics/logEvent";
 
+export const dynamic = "force-dynamic"
+
 // Helper to categorize role
 function categorize(role: string) {
   const r = role.toLowerCase();

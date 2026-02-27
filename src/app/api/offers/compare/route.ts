@@ -4,6 +4,8 @@ import { authOptions } from "@/lib/auth";
 import { calculateGrowthIndex } from "@/lib/calculations/growth";
 import { logEvent } from "@/lib/analytics/logEvent";
 
+export const dynamic = "force-dynamic"
+
 export async function POST(request: Request) {
   try {
     const session = await getServerSession(authOptions);
