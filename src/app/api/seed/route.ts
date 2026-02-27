@@ -4,6 +4,8 @@ import util from 'util';
 
 const execPromise = util.promisify(exec);
 
+export const dynamic = "force-dynamic"
+
 export async function GET() {
   try {
     // In a real production env, you wouldn't run a shell script like this usually,

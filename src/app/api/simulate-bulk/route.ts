@@ -7,6 +7,8 @@ import { calculateAcceptanceProbability } from "@/lib/calculations/probability";
 import { getMarketCompetition } from "@/lib/calculations/market";
 import { logEvent } from "@/lib/analytics/logEvent";
 
+export const dynamic = "force-dynamic"
+
 export async function GET() {
   try {
     const session = await getServerSession(authOptions);

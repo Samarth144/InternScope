@@ -3,6 +3,8 @@ import { calculateReadiness } from "@/lib/calculations/readiness";
 import { calculateAcceptanceProbability } from "@/lib/calculations/probability";
 import { getMarketCompetition } from "@/lib/calculations/market";
 
+export const dynamic = "force-dynamic"
+
 export async function GET() {
   const readiness = calculateReadiness({
     skillAvg: 70,

@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server"
 
+export const dynamic = "force-dynamic"
+
 export async function GET() {
   // We'll return a curated, high-level list of common roles
   // that students actually recognize, while keeping them mapped to our data categories.

@@ -1,6 +1,8 @@
 import { getMarketAnalytics } from "@/lib/market/marketAnalytics"
 import { NextResponse } from "next/server"
 
+export const dynamic = "force-dynamic"
+
 export async function GET() {
   try {
     const analytics = await getMarketAnalytics()
