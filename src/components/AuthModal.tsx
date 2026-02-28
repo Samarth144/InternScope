@@ -61,7 +61,7 @@ export default function AuthModal({ isOpen, onClose }: { isOpen: boolean, onClos
       <motion.div 
         initial={{ opacity: 0, scale: 0.95, y: 20 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
-        className="relative w-full max-w-md bg-[#0F172A] border border-white/10 rounded-[2rem] p-8 shadow-2xl overflow-hidden"
+        className="relative w-full max-w-md bg-[#0F172A] border border-white/10 rounded-[2rem] p-8 shadow-2xl overflow-hidden mt-[85vh]"
       >
         <div className="mesh-bg opacity-30" />
         

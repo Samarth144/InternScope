@@ -42,7 +42,7 @@ export default function SignInPage() {
       <motion.div 
         initial={{ opacity: 0, scale: 0.95, y: 20 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
-        className="relative z-10 w-full max-w-md bg-[#0F172A]/80 backdrop-blur-xl border border-white/10 rounded-[2.5rem] p-10 shadow-2xl"
+        className="relative z-10 w-full max-w-md bg-[#0F172A]/80 backdrop-blur-xl border border-white/10 rounded-[2.5rem] p-10 shadow-2xl mt-[85vh]"
       >
         <div className="flex justify-center mb-8">
           <Logo />
