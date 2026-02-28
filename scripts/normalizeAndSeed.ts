@@ -153,10 +153,20 @@ function deepClean(rawData: any[]) {
   });
 }
 
-async function main() {
+export async function seedInternships(data?: any[]) {
   console.log("🚀 Deep Cleaning & Merging Roles...");
-  const rawFilePath = path.join(process.cwd(), 'internships.json');
-  const rawData = JSON.parse(fs.readFileSync(rawFilePath, 'utf8'));
+  
+  let rawData = data;
+  if (!rawData) {
+    const rawFilePath = path.join(process.cwd(), 'data', 'internships.json');
+    if (fs.existsSync(rawFilePath)) {
+      rawData = JSON.parse(fs.readFileSync(rawFilePath, 'utf8'));
+    } else {
+      // Fallback for when data/ is not found (like on some build envs)
+      console.warn("internships.json not found, skipping internship seeding");
+      return;
+    }
+  }
   
   // Filter out rows where company name contains "+ (number) more"
   const filteredRawData = rawData.filter((item: any) => {
@@ -172,6 +182,9 @@ async function main() {
   console.log("✅ Roles merged and data seeded successfully.");
 }
 
-main()
-  .catch(e => console.error(e))
-  .finally(() => prisma.$disconnect());
+// Only run if this is the main module
+if (require.main === module) {
+  seedInternships()
+    .catch(e => console.error(e))
+    .finally(() => prisma.$disconnect());
+}

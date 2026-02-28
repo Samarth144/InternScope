@@ -6,9 +6,12 @@ function randomInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1)) + min
 }
 
-async function main() {
-  console.log("Seeding database...")
-
+export async function seedCoreData() {
+  console.log("Seeding core database...")
+  
+  // Use the global prisma instance if possible, or create one if not passed
+  // For simplicity here, we'll just use the one imported in this file
+  
   // Clear existing
   await prisma.student.deleteMany()
   await prisma.company.deleteMany()
@@ -61,9 +64,12 @@ async function main() {
     })
   }
 
-  console.log("Seeding completed.")
+  console.log("Core seeding completed.")
 }
 
-main()
-  .catch(e => console.error(e))
-  .finally(async () => await prisma.$disconnect())
+// Only run if this is the main module
+if (require.main === module) {
+  seedCoreData()
+    .catch(e => console.error(e))
+    .finally(async () => await prisma.$disconnect())
+}
