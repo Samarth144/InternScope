@@ -167,6 +167,8 @@ export async function seedInternships(data?: any[]) {
       return;
     }
   }
+
+  if (!rawData) return;
   
   // Filter out rows where company name contains "+ (number) more"
   const filteredRawData = rawData.filter((item: any) => {
