@@ -45,6 +45,9 @@ export const authOptions: NextAuthOptions = {
     strategy: "jwt",
   },
   secret: process.env.NEXTAUTH_SECRET || "fallback-secret-for-build",
+  pages: {
+    signIn: '/auth/signin',
+  },
   callbacks: {
     jwt: ({ token, user }) => {
       if (user) {

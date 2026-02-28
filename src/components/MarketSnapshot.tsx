@@ -12,20 +12,34 @@ export default function MarketSnapshot() {
     fetch("/api/market")
       .then(res => res.json())
       .then(json => {
-        if (json.error) {
+        if (json.error || !json || Object.keys(json).length === 0) {
           setData(null);
         } else {
           setData(json)
         }
         setLoading(false)
       })
-      .catch(() => setLoading(false))
+      .catch(() => {
+        setData(null);
+        setLoading(false);
+      })
   }, [])
 
-  if (loading || !data) return (
+  if (loading) return (
     <div className="py-24">
       <Loader message="Syncing Live Market Data" />
     </div>
+  )
+
+  if (!data) return (
+    <section className="py-20 relative overflow-hidden">
+      <div className="max-w-6xl mx-auto px-4 text-center">
+        <h2 className="text-xl font-bold text-white/40 uppercase tracking-widest">
+          Market Intelligence <span className="text-[#5B6FF6]/40">Offline</span>
+        </h2>
+        <p className="text-sm text-muted mt-4 opacity-40">Please run the database seed to initialize market analytics.</p>
+      </div>
+    </section>
   )
 
   const stats = [
