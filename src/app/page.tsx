@@ -7,7 +7,7 @@ import FinalCTA from "@/components/FinalCTA"
 
 export default function Home() {
   return (
-    <div className="relative selection:bg-[#21D4BD] selection:text-black">
+    <div className="relative pt-20 selection:bg-[#21D4BD] selection:text-black">
       <LandingHero />
       <MarketSnapshot />
       <ProblemSection />

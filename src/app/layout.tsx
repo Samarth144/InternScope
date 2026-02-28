@@ -22,7 +22,7 @@ export default function RootLayout({
         <Providers>
           <Navbar />
           {/* Main content area */}
-          <main className="pt-20 relative z-10">
+          <main className="relative z-10">
             {children}
           </main>
         </Providers>
